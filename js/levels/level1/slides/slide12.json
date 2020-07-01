@@ -1,0 +1,429 @@
+{
+	"position": {
+		"BG": {
+			"x": -25,
+			"y": -82
+		},
+		"SoundIcon": {
+			"x": 1137,
+			"y": 55
+		},
+		"Titlecopy": {
+			"x": 117,
+			"y": 25
+		},
+		"Layer24": {
+			"x": 100,
+			"y": 163
+		},
+		"Layer24copy": {
+			"x": 319,
+			"y": 163
+		},
+		"Layer24copy2": {
+			"x": 536,
+			"y": 163
+		},
+		"Layer24copy3": {
+			"x": 748,
+			"y": 163
+		},
+		"Layer24copy4": {
+			"x": 100,
+			"y": 404
+		},
+		"Layer24copy4_0": {
+			"x": 319,
+			"y": 404
+		},
+		"Layer24copy4_1": {
+			"x": 536,
+			"y": 404
+		},
+		"Layer24copy4_2": {
+			"x": 748,
+			"y": 404
+		},
+		"RoundedRectangle1cop": {
+			"x": 163,
+			"y": 312,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["one"]
+		},
+		"RoundedRectangle1cop_0": {
+			"x": 163,
+			"y": 546,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["seven"]
+		},
+		"RoundedRectangle1cop_1": {
+			"x": 374,
+			"y": 312,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["four"]
+		},
+		"RoundedRectangle1cop_2": {
+			"x": 374,
+			"y": 546,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["two"]
+		},
+		"RoundedRectangle1cop_3": {
+			"x": 584,
+			"y": 312,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["three"]
+		},
+		"RoundedRectangle1cop_4": {
+			"x": 584,
+			"y": 546,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["ten"]
+		},
+		"RoundedRectangle1cop_5": {
+			"x": 804,
+			"y": 312,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["five"]
+		},
+		"RoundedRectangle1cop_6": {
+			"x": 804,
+			"y": 546,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["eight"]
+		},
+		"Layer25": {
+			"x": 119,
+			"y": 191
+		},
+		"layer_4": {
+			"x": 1031,
+			"y": 311,
+            "isDraggable": true,
+            "onDropImg": "slide12/4copy_0.png",
+            "instanceName": "four"
+		},
+		"layer_5": {
+			"x": 1069,
+			"y": 367,
+            "isDraggable": true,
+            "onDropImg": "slide12/5copy_0.png",
+            "instanceName": "five"
+		},
+		"number5": {
+			"x": 1250,
+			"y": 316,
+            "isDraggable": true,
+            "onDropImg": "slide12/5copy_0.png",
+            "instanceName": "five"
+		},
+		"number2": {
+			"x": 1155,
+			"y": 452,
+            "isDraggable": true,
+            "onDropImg": "slide12/2copy2.png",
+            "instanceName": "two"
+		},
+		"number3": {
+			"x": 1263,
+			"y": 404,
+            "isDraggable": true,
+            "onDropImg": "slide12/3copy_0.png",
+            "instanceName": "three"
+		},
+		"number3b": {
+			"x": 1099,
+			"y": 295,
+            "isDraggable": true,
+            "onDropImg": "slide12/3copy_0.png",
+            "instanceName": "three"
+		},
+		"layer_8": {
+			"x": 1223,
+			"y": 357,
+            "isDraggable": true,
+            "onDropImg": "slide12/layer_8_0.png",
+            "instanceName": "eight"
+		},
+		"layer_10": {
+			"x": 1167,
+			"y": 303,
+            "isDraggable": true,
+            "onDropImg": "slide12/layer_10_0.png",
+            "instanceName": "ten"
+		},
+		"layer_2": {
+			"x": 1232,
+			"y": 459,
+            "isDraggable": true,
+            "onDropImg": "slide12/2copy2.png",
+            "instanceName": "two"
+		},
+		"layer_7": {
+			"x": 1112,
+			"y": 435,
+            "isDraggable": true,
+            "onDropImg": "slide12/layer_7_0.png",
+            "instanceName": "seven"
+		},
+		"number1": {
+			"x": 1159,
+			"y": 376,
+            "isDraggable": true,
+            "onDropImg": "slide12/1copy2.png",
+            "instanceName": "one"
+		},
+		"VectorSmartObject_2": {
+			"x": 784,
+			"y": 426
+		},
+		"VectorSmartObjectcop_2": {
+			"x": 839,
+			"y": 415
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 867,
+			"y": 452
+		},
+		"VectorSmartObjectcop_4": {
+			"x": 869,
+			"y": 498
+		},
+		"VectorSmartObjectcop_5": {
+			"x": 752,
+			"y": 471
+		},
+		"VectorSmartObjectcop_6": {
+			"x": 767,
+			"y": 516
+		},
+		"VectorSmartObjectcop_7": {
+			"x": 813,
+			"y": 462
+		},
+		"VectorSmartObjectcop_8": {
+			"x": 821,
+			"y": 506
+		},
+		"VectorSmartObject_3": {
+			"x": 342,
+			"y": 243
+		},
+		"VectorSmartObjectcop_9": {
+			"x": 363,
+			"y": 184
+		},
+		"VectorSmartObjectcop_10": {
+			"x": 425,
+			"y": 206
+		},
+		"VectorSmartObjectcop_11": {
+			"x": 399,
+			"y": 248
+		},
+		"VectorSmartObject_4": {
+			"x": 588,
+			"y": 194
+		},
+		"VectorSmartObjectcop_12": {
+			"x": 563,
+			"y": 252
+		},
+		"VectorSmartObjectcop_13": {
+			"x": 624,
+			"y": 245
+		},
+		"VectorSmartObject_5": {
+			"x": 802,
+			"y": 182
+		},
+		"VectorSmartObjectcop_14": {
+			"x": 775,
+			"y": 216
+		},
+		"VectorSmartObjectcop_15": {
+			"x": 860,
+			"y": 227
+		},
+		"VectorSmartObjectcop_16": {
+			"x": 843,
+			"y": 174
+		},
+		"VectorSmartObject_6": {
+			"x": 127,
+			"y": 426
+		},
+		"VectorSmartObject_7": {
+			"x": 366,
+			"y": 426
+		},
+		"VectorSmartObjectcop_17": {
+			"x": 398,
+			"y": 483
+		},
+		"VectorSmartObject_8": {
+			"x": 581,
+			"y": 413
+		},
+		"VectorSmartObjectcop_18": {
+			"x": 612,
+			"y": 413
+		},
+		"VectorSmartObjectcop_19": {
+			"x": 643,
+			"y": 413
+		},
+		"VectorSmartObjectcop_20": {
+			"x": 587,
+			"y": 499
+		},
+		"VectorSmartObjectcop_21": {
+			"x": 618,
+			"y": 499
+		},
+		"VectorSmartObjectcop_22": {
+			"x": 659,
+			"y": 459
+		},
+		"VectorSmartObjectcop_23": {
+			"x": 632,
+			"y": 459
+		},
+		"VectorSmartObjectcop_24": {
+			"x": 603,
+			"y": 459
+		},
+		"VectorSmartObjectcop_25": {
+			"x": 575,
+			"y": 459
+		},
+		"VectorSmartObjectcop_26": {
+			"x": 545,
+			"y": 459
+		},
+		"VectorSmartObjectcop_27": {
+			"x": 112,
+			"y": 465
+		},
+		"VectorSmartObjectcop_28": {
+			"x": 138,
+			"y": 508
+		},
+		"VectorSmartObjectcop_29": {
+			"x": 194,
+			"y": 503
+		},
+		"VectorSmartObjectcop_30": {
+			"x": 216,
+			"y": 467
+		},
+		"VectorSmartObjectcop_31": {
+			"x": 167,
+			"y": 461
+		},
+		"VectorSmartObjectcop_32": {
+			"x": 193,
+			"y": 423
+		},
+		"VectorSmartObjectcop_33": {
+			"x": 821,
+			"y": 247
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png",
+		"Layer24": "Layer24.png",
+		"Layer24copy": "Layer24copy.png",
+		"Layer24copy2": "Layer24copy2.png",
+		"Layer24copy3": "Layer24copy3.png",
+		"Layer24copy4": "Layer24copy4.png",
+		"Layer24copy4_0": "Layer24copy4_0.png",
+		"Layer24copy4_1": "Layer24copy4_1.png",
+		"Layer24copy4_2": "Layer24copy4_2.png",
+		"RoundedRectangle1cop": "RoundedRectangle1cop.png",
+		"RoundedRectangle1cop_0": "RoundedRectangle1cop_0.png",
+		"RoundedRectangle1cop_1": "RoundedRectangle1cop_1.png",
+		"RoundedRectangle1cop_2": "RoundedRectangle1cop_2.png",
+		"RoundedRectangle1cop_3": "RoundedRectangle1cop_3.png",
+		"RoundedRectangle1cop_4": "RoundedRectangle1cop_4.png",
+		"RoundedRectangle1cop_5": "RoundedRectangle1cop_5.png",
+		"RoundedRectangle1cop_6": "RoundedRectangle1cop_6.png",
+		"Layer25": "Layer25.png",
+		"layer_4": "layer_4.png",
+		"layer_5": "layer_5.png",
+		"number5": "5copy.png",
+		"number2": "2copy.png",
+		"number3": "3copy.png",
+		"number3b": "3copy2.png",
+		"layer_8": "layer_8.png",
+		"layer_10": "layer_10.png",
+		"layer_2": "layer_2.png",
+		"layer_7": "layer_7.png",
+		"number1": "1copy4.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"VectorSmartObjectcop_2": "VectorSmartObjectcop_2.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"VectorSmartObjectcop_4": "VectorSmartObjectcop_4.png",
+		"VectorSmartObjectcop_5": "VectorSmartObjectcop_5.png",
+		"VectorSmartObjectcop_6": "VectorSmartObjectcop_6.png",
+		"VectorSmartObjectcop_7": "VectorSmartObjectcop_7.png",
+		"VectorSmartObjectcop_8": "VectorSmartObjectcop_8.png",
+		"VectorSmartObject_3": "VectorSmartObject_3.png",
+		"VectorSmartObjectcop_9": "VectorSmartObjectcop_9.png",
+		"VectorSmartObjectcop_10": "VectorSmartObjectcop_10.png",
+		"VectorSmartObjectcop_11": "VectorSmartObjectcop_11.png",
+		"VectorSmartObject_4": "VectorSmartObject_4.png",
+		"VectorSmartObjectcop_12": "VectorSmartObjectcop_12.png",
+		"VectorSmartObjectcop_13": "VectorSmartObjectcop_13.png",
+		"VectorSmartObject_5": "VectorSmartObject_5.png",
+		"VectorSmartObjectcop_14": "VectorSmartObjectcop_14.png",
+		"VectorSmartObjectcop_15": "VectorSmartObjectcop_15.png",
+		"VectorSmartObjectcop_16": "VectorSmartObjectcop_16.png",
+		"VectorSmartObject_6": "VectorSmartObject_6.png",
+		"VectorSmartObject_7": "VectorSmartObject_7.png",
+		"VectorSmartObjectcop_17": "VectorSmartObjectcop_17.png",
+		"VectorSmartObject_8": "VectorSmartObject_8.png",
+		"VectorSmartObjectcop_18": "VectorSmartObjectcop_18.png",
+		"VectorSmartObjectcop_19": "VectorSmartObjectcop_19.png",
+		"VectorSmartObjectcop_20": "VectorSmartObjectcop_20.png",
+		"VectorSmartObjectcop_21": "VectorSmartObjectcop_21.png",
+		"VectorSmartObjectcop_22": "VectorSmartObjectcop_22.png",
+		"VectorSmartObjectcop_23": "VectorSmartObjectcop_23.png",
+		"VectorSmartObjectcop_24": "VectorSmartObjectcop_24.png",
+		"VectorSmartObjectcop_25": "VectorSmartObjectcop_25.png",
+		"VectorSmartObjectcop_26": "VectorSmartObjectcop_26.png",
+		"VectorSmartObjectcop_27": "VectorSmartObjectcop_27.png",
+		"VectorSmartObjectcop_28": "VectorSmartObjectcop_28.png",
+		"VectorSmartObjectcop_29": "VectorSmartObjectcop_29.png",
+		"VectorSmartObjectcop_30": "VectorSmartObjectcop_30.png",
+		"VectorSmartObjectcop_31": "VectorSmartObjectcop_31.png",
+		"VectorSmartObjectcop_32": "VectorSmartObjectcop_32.png",
+		"VectorSmartObjectcop_33": "VectorSmartObjectcop_33.png"
+	}
+}

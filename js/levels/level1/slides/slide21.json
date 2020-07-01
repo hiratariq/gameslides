@@ -1,0 +1,502 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -41
+		},
+		"VectorSmartObject": {
+			"x": -14,
+			"y": 127
+		},
+		"Layer22copy4": {
+			"x": 240,
+			"y": 194
+		},
+		"Layer22copy5": {
+			"x": 240,
+			"y": 286
+		},
+		"Layer22copy6": {
+			"x": 149,
+			"y": 286
+		},
+		"Layer22copy7": {
+			"x": 57,
+			"y": 286
+		},
+		"Layer22copy9": {
+			"x": 333,
+			"y": 194
+		},
+		"Layer22copy10": {
+			"x": 333,
+			"y": 286
+		},
+		"Layer22copy11": {
+			"x": 425,
+			"y": 286
+		},
+		"Layer22copy12": {
+			"x": 517,
+			"y": 286
+		},
+		"Layer22copy8": {
+			"x": 192,
+			"y": 427
+		},
+		"Layer22copy14": {
+			"x": 290,
+			"y": 427
+		},
+		"Layer22copy13": {
+			"x": 383,
+			"y": 427
+		},
+		"Ellipse1copy": {
+			"x": 209,
+			"y": 443,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"Shape4copy": {
+			"x": 300,
+			"y": 456,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"Rectangle4copy2": {
+			"x": 403,
+			"y": 463,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"RoundedRectangle1": {
+			"x": 57,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Ellipse1copy"],
+            "dependsOn": [
+                "RoundedRectangle1cop",
+                "RoundedRectangle1cop_0",
+                "RoundedRectangle1cop_1",
+                "RoundedRectangle1cop_2",
+                "RoundedRectangle1cop_3"
+            ]
+		},
+		"RoundedRectangle1cop": {
+			"x": 153,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Shape4copy"],
+            "dependsOn": [
+                "RoundedRectangle1",
+                "RoundedRectangle1cop_0",
+                "RoundedRectangle1cop_1",
+                "RoundedRectangle1cop_2",
+                "RoundedRectangle1cop_3"
+            ]
+		},
+		"RoundedRectangle1cop_0": {
+			"x": 247,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Rectangle4copy2"],
+            "dependsOn": [
+                "RoundedRectangle1",
+                "RoundedRectangle1cop",
+                "RoundedRectangle1cop_1",
+                "RoundedRectangle1cop_2",
+                "RoundedRectangle1cop_3"
+            ]
+		},
+		"RoundedRectangle1cop_1": {
+			"x": 343,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Ellipse1copy"],
+            "dependsOn": [
+                "RoundedRectangle1",
+                "RoundedRectangle1cop",
+                "RoundedRectangle1cop_0",
+                "RoundedRectangle1cop_2",
+                "RoundedRectangle1cop_3"
+            ]
+		},
+		"RoundedRectangle1cop_2": {
+			"x": 438,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Shape4copy"],
+            "dependsOn": [
+                "RoundedRectangle1",
+                "RoundedRectangle1cop",
+                "RoundedRectangle1cop_0",
+                "RoundedRectangle1cop_1",
+                "RoundedRectangle1cop_3"
+            ]
+		},
+		"RoundedRectangle1cop_3": {
+			"x": 528,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Rectangle4copy2"],
+            "dependsOn": [
+                "RoundedRectangle1",
+                "RoundedRectangle1cop",
+                "RoundedRectangle1cop_0",
+                "RoundedRectangle1cop_1",
+                "RoundedRectangle1cop_2"
+            ]
+		},
+		"VectorSmartObject_0": {
+			"x": 276,
+			"y": 204
+		},
+		"VectorSmartObjectcop": {
+			"x": 456,
+			"y": 296
+		},
+		"VectorSmartObjectcop_0": {
+			"x": 91,
+			"y": 295
+		},
+		"VectorSmartObjectcop_1": {
+			"x": 276,
+			"y": 295
+		},
+		"VectorSmartObject_1": {
+			"x": 365,
+			"y": 211
+		},
+		"VectorSmartObjectcop_2": {
+			"x": 174,
+			"y": 301
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 365,
+			"y": 301
+		},
+		"VectorSmartObjectcop_4": {
+			"x": 539,
+			"y": 301
+		},
+		"Layer22copy5_0": {
+			"x": 913,
+			"y": 286,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObject_4"],
+            "dependsOn": [
+                "Layer22copy6_0",
+                "Layer22copy7_0",
+                "Layer22copy10_0",
+                "Layer22copy11_0",
+                "Layer22copy12_0"
+            ]
+		},
+		"Layer22copy6_0": {
+			"x": 822,
+			"y": 286,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObject_3"],
+            "dependsOn": [
+                "Layer22copy5_0",
+                "Layer22copy7_0",
+                "Layer22copy10_0",
+                "Layer22copy11_0",
+                "Layer22copy12_0"
+            ]
+		},
+		"Layer22copy7_0": {
+			"x": 730,
+			"y": 286,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObject_2"],
+            "dependsOn": [
+                "Layer22copy5_0",
+                "Layer22copy6_0",
+                "Layer22copy10_0",
+                "Layer22copy11_0",
+                "Layer22copy12_0"
+            ]
+		},
+		"Layer22copy10_0": {
+			"x": 1006,
+			"y": 286,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObject_2"],
+            "dependsOn": [
+                "Layer22copy5_0",
+                "Layer22copy6_0",
+                "Layer22copy7_0",
+                "Layer22copy11_0",
+                "Layer22copy12_0"
+            ]
+		},
+		"Layer22copy11_0": {
+			"x": 1098,
+			"y": 286,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObject_3"],
+            "dependsOn": [
+                "Layer22copy5_0",
+                "Layer22copy6_0",
+                "Layer22copy7_0",
+                "Layer22copy10_0",
+                "Layer22copy12_0"
+            ]
+		},
+		"Layer22copy12_0": {
+			"x": 1190,
+			"y": 286,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObject_4"],
+            "dependsOn": [
+                "Layer22copy5_0",
+                "Layer22copy6_0",
+                "Layer22copy7_0",
+                "Layer22copy10_0",
+                "Layer22copy11_0"
+            ]
+		},
+		"Layer22copy8_0": {
+			"x": 865,
+			"y": 427
+		},
+		"Layer22copy14_0": {
+			"x": 963,
+			"y": 427
+		},
+		"Layer22copy13_0": {
+			"x": 1056,
+			"y": 427
+		},
+		"Layer22copy15": {
+			"x": 865,
+			"y": 188
+		},
+		"Layer22copy15_0": {
+			"x": 963,
+			"y": 188
+		},
+		"Layer22copy15_1": {
+			"x": 1056,
+			"y": 188
+		},
+		"VectorSmartObject_2": {
+			"x": 875,
+			"y": 212,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"VectorSmartObject_3": {
+			"x": 974,
+			"y": 208,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"VectorSmartObject_4": {
+			"x": 1061,
+			"y": 213,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"cricket": {
+			"x": 885,
+			"y": 439,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"monkey": {
+			"x": 974,
+			"y": 443,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"hippo": {
+			"x": 1062,
+			"y": 449,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"RoundedRectangle1_0": {
+			"x": 730,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["cricket"],
+            "dependsOn": [
+                "RoundedRectangle1cop_4",
+                "RoundedRectangle1cop_5",
+                "RoundedRectangle1cop_6",
+                "RoundedRectangle1cop_7",
+                "RoundedRectangle1cop_8"
+            ]
+		},
+		"RoundedRectangle1cop_4": {
+			"x": 826,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["monkey"],
+            "dependsOn": [
+                "RoundedRectangle1_0",
+                "RoundedRectangle1cop_5",
+                "RoundedRectangle1cop_6",
+                "RoundedRectangle1cop_7",
+                "RoundedRectangle1cop_8"
+            ]
+		},
+		"RoundedRectangle1cop_5": {
+			"x": 920,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["hippo"],
+            "dependsOn": [
+                "RoundedRectangle1_0",
+                "RoundedRectangle1cop_4",
+                "RoundedRectangle1cop_6",
+                "RoundedRectangle1cop_7",
+                "RoundedRectangle1cop_8"
+            ]
+		},
+		"RoundedRectangle1cop_6": {
+			"x": 1016,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["cricket"],
+            "dependsOn": [
+                "RoundedRectangle1_0",
+                "RoundedRectangle1cop_4",
+                "RoundedRectangle1cop_5",
+                "RoundedRectangle1cop_7",
+                "RoundedRectangle1cop_8"
+            ]
+		},
+		"RoundedRectangle1cop_7": {
+			"x": 1111,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["monkey"],
+            "dependsOn": [
+                "RoundedRectangle1_0",
+                "RoundedRectangle1cop_4",
+                "RoundedRectangle1cop_5",
+                "RoundedRectangle1cop_6",
+                "RoundedRectangle1cop_8"
+            ]
+		},
+		"RoundedRectangle1cop_8": {
+			"x": 1201,
+			"y": 528,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["hippo"],
+            "dependsOn": [
+                "RoundedRectangle1_0",
+                "RoundedRectangle1cop_4",
+                "RoundedRectangle1cop_5",
+                "RoundedRectangle1cop_6",
+                "RoundedRectangle1cop_7"
+            ]
+		},
+		"SoundIcon": {
+			"x": 1272,
+			"y": 76
+		},
+		"Titlecopy": {
+			"x": 54,
+			"y": 44
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"Layer22copy4": "Layer22copy4.png",
+		"Layer22copy5": "Layer22copy5.png",
+		"Layer22copy6": "Layer22copy6.png",
+		"Layer22copy7": "Layer22copy7.png",
+		"Layer22copy9": "Layer22copy9.png",
+		"Layer22copy10": "Layer22copy10.png",
+		"Layer22copy11": "Layer22copy11.png",
+		"Layer22copy12": "Layer22copy12.png",
+		"Layer22copy8": "Layer22copy8.png",
+		"Layer22copy14": "Layer22copy14.png",
+		"Layer22copy13": "Layer22copy13.png",
+		"Ellipse1copy": "Ellipse1copy.png",
+		"Shape4copy": "Shape4copy.png",
+		"Rectangle4copy2": "Rectangle4copy2.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"RoundedRectangle1cop": "RoundedRectangle1cop.png",
+		"RoundedRectangle1cop_0": "RoundedRectangle1cop_0.png",
+		"RoundedRectangle1cop_1": "RoundedRectangle1cop_1.png",
+		"RoundedRectangle1cop_2": "RoundedRectangle1cop_2.png",
+		"RoundedRectangle1cop_3": "RoundedRectangle1cop_3.png",
+		"VectorSmartObject_0": "VectorSmartObject_0.png",
+		"VectorSmartObjectcop": "VectorSmartObjectcop.png",
+		"VectorSmartObjectcop_0": "VectorSmartObjectcop_0.png",
+		"VectorSmartObjectcop_1": "VectorSmartObjectcop_1.png",
+		"VectorSmartObject_1": "VectorSmartObject_1.png",
+		"VectorSmartObjectcop_2": "VectorSmartObjectcop_2.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"VectorSmartObjectcop_4": "VectorSmartObjectcop_4.png",
+		"Layer22copy5_0": "Layer22copy5_0.png",
+		"Layer22copy6_0": "Layer22copy6_0.png",
+		"Layer22copy7_0": "Layer22copy7_0.png",
+		"Layer22copy10_0": "Layer22copy10_0.png",
+		"Layer22copy11_0": "Layer22copy11_0.png",
+		"Layer22copy12_0": "Layer22copy12_0.png",
+		"Layer22copy8_0": "Layer22copy8_0.png",
+		"Layer22copy14_0": "Layer22copy14_0.png",
+		"Layer22copy13_0": "Layer22copy13_0.png",
+		"Layer22copy15": "Layer22copy15.png",
+		"Layer22copy15_0": "Layer22copy15_0.png",
+		"Layer22copy15_1": "Layer22copy15_1.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"VectorSmartObject_3": "VectorSmartObject_3.png",
+		"VectorSmartObject_4": "VectorSmartObject_4.png",
+		"cricket": "203d85f1d99547171625.png",
+		"monkey": "4354358977monkeyclip.png",
+		"hippo": "6876877286cartoonhip.png",
+		"RoundedRectangle1_0": "RoundedRectangle1_0.png",
+		"RoundedRectangle1cop_4": "RoundedRectangle1cop_4.png",
+		"RoundedRectangle1cop_5": "RoundedRectangle1cop_5.png",
+		"RoundedRectangle1cop_6": "RoundedRectangle1cop_6.png",
+		"RoundedRectangle1cop_7": "RoundedRectangle1cop_7.png",
+		"RoundedRectangle1cop_8": "RoundedRectangle1cop_8.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

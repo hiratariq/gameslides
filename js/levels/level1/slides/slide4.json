@@ -1,0 +1,143 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -12
+		},
+		"Rectangle4copy5": {
+			"x": 422,
+			"y": 243
+		},
+		"Squre": {
+			"x": 422,
+			"y": 397
+		},
+		"Rectangle4copy6": {
+			"x": 1055,
+			"y": 243
+		},
+		"Squrecopy": {
+			"x": 1055,
+			"y": 397
+		},
+		"Rectangle4copy10": {
+			"x": 147,
+			"y": 129
+		},
+		"Rectangle4copy11": {
+			"x": 735,
+			"y": 129
+		},
+		"big_strawberry1": {
+			"x": 178,
+			"y": 162,
+			"isSource": true
+		},
+		"big_strawberry_target": {
+			"x": 457,
+			"y": 405,
+			"isTarget": true,
+			"isTargetFor": ["big_strawberry1", "big_strawberry2", "small_strawberry1", "small_strawberry2", "small_strawberry3"],
+			"isCorrectFor": ["big_strawberry1", "big_strawberry2"]
+		},
+		"big_strawberry2": {
+			"x": 178,
+			"y": 363,
+			"isSource": true
+		},
+		"small_strawberry1": {
+			"x": 196,
+			"y": 292,
+			"isSource": true
+		},
+		"small_strawberry2": {
+			"x": 196,
+			"y": 493,
+			"isSource": true
+		},
+		"small_strawberry_target": {
+			"x": 475,
+			"y": 283,
+			"isTarget": true,
+			"isTargetFor": ["big_strawberry1", "big_strawberry2", "small_strawberry1", "small_strawberry2", "small_strawberry3"],
+			"isCorrectFor": ["small_strawberry1", "small_strawberry2", "small_strawberry3"]
+		},
+		"small_strawberry3": {
+			"x": 196,
+			"y": 574,
+			"isSource": true
+		},
+		"big_leaf1": {
+			"x": 763,
+			"y": 186,
+			"isSource": true
+		},
+		"big_leaf2": {
+			"x": 760,
+			"y": 541,
+			"isSource": true
+		},
+		"small_leaf1": {
+			"x": 783,
+			"y": 299,
+			"isSource": true
+		},
+		"small_leaf2": {
+			"x": 783,
+			"y": 383,
+			"isSource": true
+		},
+		"small_leaf3": {
+			"x": 783,
+			"y": 467,
+			"isSource": true
+		},
+		"small_leaf_target": {
+			"x": 1101,
+			"y": 291,
+			"isTarget": true,
+			"isTargetFor": ["small_leaf1", "small_leaf2", "small_leaf3", "big_leaf1", "big_leaf2"],
+			"isCorrectFor": ["small_leaf1", "small_leaf2", "small_leaf3"]
+		},
+		"big_leaf_target": {
+			"x": 1081,
+			"y": 433,
+			"isTarget": true,
+			"isTargetFor": ["small_leaf1", "small_leaf2", "small_leaf3", "big_leaf1", "big_leaf2"],
+			"isCorrectFor": ["big_leaf1", "big_leaf2"]
+		},
+		"SoundIcon": {
+			"x": 1020,
+			"y": 57
+		},
+		"Titlecopy": {
+			"x": 323,
+			"y": 39
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"Rectangle4copy5": "Rectangle4copy5.png",
+		"Squre": "Squre.png",
+		"Rectangle4copy6": "Rectangle4copy6.png",
+		"Squrecopy": "Squrecopy.png",
+		"Rectangle4copy10": "Rectangle4copy10.png",
+		"Rectangle4copy11": "Rectangle4copy11.png",
+		"big_strawberry1": "VectorSmartObjectcop.png",
+		"big_strawberry_target": "VectorSmartObjectcop_0.png",
+		"big_strawberry2": "VectorSmartObjectcop_1.png",
+		"small_strawberry1": "VectorSmartObjectcop_2.png",
+		"small_strawberry2": "VectorSmartObjectcop_3.png",
+		"small_strawberry_target": "VectorSmartObjectcop_4.png",
+		"small_strawberry3": "VectorSmartObjectcop_5.png",
+		"big_leaf1": "VectorSmartObjectcop_6.png",
+		"big_leaf2": "VectorSmartObjectcop_7.png",
+		"small_leaf1": "VectorSmartObjectcop_9.png",
+		"small_leaf2": "VectorSmartObjectcop_10.png",
+		"small_leaf3": "VectorSmartObjectcop_11.png",
+		"small_leaf_target": "VectorSmartObjectcop_12.png",
+		"big_leaf_target": "VectorSmartObjectcop_22.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

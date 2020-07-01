@@ -1,0 +1,228 @@
+{
+	"position": {
+		"RoundedRectangle1": {
+			"x": -17,
+			"y": 138
+		},
+		"pngwave1copy": {
+			"x": 436,
+			"y": 444
+		},
+		"rose1": {
+			"x": 417,
+			"y": 185
+		},
+		"frangipanicliparttro": {
+			"x": 451,
+			"y": 326
+		},
+		"Shape1copy": {
+			"x": 111,
+			"y": 248
+		},
+		"Shape2copy": {
+			"x": 124,
+			"y": 252
+		},
+		"Shape3copy": {
+			"x": 152,
+			"y": 253
+		},
+		"Shape4copy": {
+			"x": 153,
+			"y": 330
+		},
+		"Shape5copy": {
+			"x": 155,
+			"y": 380
+		},
+		"Shape6copy": {
+			"x": 157,
+			"y": 297
+		},
+		"Shape7copy": {
+			"x": 123,
+			"y": 399
+		},
+		"Shape8copy": {
+			"x": 149,
+			"y": 464
+		},
+		"Layer23": {
+			"x": 363,
+			"y": 240
+		},
+		"Layer23copy": {
+			"x": 403,
+			"y": 369
+		},
+		"Layer23copy2": {
+			"x": 385,
+			"y": 458
+		},
+		"Layer22": {
+			"x": 17,
+			"y": 246
+		},
+		"Layer22copy": {
+			"x": 17,
+			"y": 284
+		},
+		"Layer22copy2": {
+			"x": 17,
+			"y": 319
+		},
+		"Layer22copy3": {
+			"x": 17,
+			"y": 354
+		},
+		"Layer22copy4": {
+			"x": 17,
+			"y": 388
+		},
+		"Layer22copy5": {
+			"x": 17,
+			"y": 423
+		},
+		"Layer22copy6": {
+			"x": 17,
+			"y": 457
+		},
+		"Layer22copy7": {
+			"x": 17,
+			"y": 494
+		},
+		"copy": {
+			"x": 48,
+			"y": 498,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"copy_0": {
+			"x": 49,
+			"y": 464,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"lfIacopy": {
+			"x": 50,
+			"y": 428,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"wdYdcopy": {
+			"x": 48,
+			"y": 399,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"jreKscopy": {
+			"x": 47,
+			"y": 359,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"copy_1": {
+			"x": 49,
+			"y": 322,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"copy_2": {
+			"x": 48,
+			"y": 290,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"copy_3": {
+			"x": 49,
+			"y": 251,
+            "isDraggable": true,
+            "makeCopy": true
+		},
+		"uajgleuswhfakfidhkAk": {
+			"x": 787,
+			"y": 147
+		},
+		"rose2": {
+			"x": 677,
+			"y": 276
+		},
+		"pngwave1": {
+			"x": 1194,
+			"y": 296
+		},
+		"frangipanicliparttro_0": {
+			"x": 929,
+			"y": 292
+		},
+		"layer_36": {
+			"x": 645,
+			"y": 446,
+            "isDroppable": true,
+            "isCorrectFor": ["copy_3","jreKscopy","copy"]
+		},
+		"layer_37": {
+			"x": 914,
+			"y": 446,
+            "isDroppable": true,
+            "isCorrectFor": ["copy_1","lfIacopy"]
+		},
+		"layer_38": {
+			"x": 1197,
+			"y": 446,
+            "isDroppable": true,
+            "isCorrectFor": ["copy_2","wdYdcopy","copy_0"]
+		},
+		"SoundIcon": {
+			"x": 1016,
+			"y": 55
+		},
+		"Titlecopy": {
+			"x": 285,
+			"y": 31
+		}
+	},
+	"sources": {
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"pngwave1copy": "pngwave1copy.png",
+		"rose1": "580b585b2edbce24c47b.png",
+		"frangipanicliparttro": "frangipanicliparttro.png",
+		"Shape1copy": "Shape1copy.png",
+		"Shape2copy": "Shape2copy.png",
+		"Shape3copy": "Shape3copy.png",
+		"Shape4copy": "Shape4copy.png",
+		"Shape5copy": "Shape5copy.png",
+		"Shape6copy": "Shape6copy.png",
+		"Shape7copy": "Shape7copy.png",
+		"Shape8copy": "Shape8copy.png",
+		"Layer23": "Layer23.png",
+		"Layer23copy": "Layer23copy.png",
+		"Layer23copy2": "Layer23copy2.png",
+		"Layer22": "Layer22.png",
+		"Layer22copy": "Layer22copy.png",
+		"Layer22copy2": "Layer22copy2.png",
+		"Layer22copy3": "Layer22copy3.png",
+		"Layer22copy4": "Layer22copy4.png",
+		"Layer22copy5": "Layer22copy5.png",
+		"Layer22copy6": "Layer22copy6.png",
+		"Layer22copy7": "Layer22copy7.png",
+		"copy": "copy.png",
+		"copy_0": "copy_0.png",
+		"lfIacopy": "lfIacopy.png",
+		"wdYdcopy": "wdYdcopy.png",
+		"jreKscopy": "jreKscopy.png",
+		"copy_1": "copy_1.png",
+		"copy_2": "copy_2.png",
+		"copy_3": "copy_3.png",
+		"uajgleuswhfakfidhkAk": "uajgleuswhfakfidhkAk.png",
+		"rose2": "580b585b2edbce24c47b_0.png",
+		"pngwave1": "pngwave1.png",
+		"frangipanicliparttro_0": "frangipanicliparttro_0.png",
+		"layer_36": "layer_36.png",
+		"layer_37": "layer_37.png",
+		"layer_38": "layer_38.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

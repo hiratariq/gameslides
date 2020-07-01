@@ -1,0 +1,141 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -12
+		},
+		"Rectangle4copy5": {
+			"x": 422,
+			"y": 243
+		},
+		"Squre": {
+			"x": 422,
+			"y": 397
+		},
+		"Rectangle4copy6": {
+			"x": 1055,
+			"y": 243
+		},
+		"Squrecopy": {
+			"x": 1055,
+			"y": 397
+		},
+		"Rectangle4copy10": {
+			"x": 147,
+			"y": 129
+		},
+		"Rectangle4copy11": {
+			"x": 735,
+			"y": 129
+		},
+		"big_dress1": {
+			"x": 189,
+			"y": 280,
+			"isSource": true
+		},
+		"big_dress_target": {
+			"x": 463,
+			"y": 267,
+			"isTarget": true,
+			"isTargetFor": ["small_dress1", "small_dress2", "big_dress1", "big_dress2"],
+			"isCorrectFor": ["big_dress1", "big_dress2"],
+            "customScore": 6.25
+		},
+		"big_dress2": {
+			"x": 189,
+			"y": 416,
+			"isSource": true
+		},
+		"small_dress1": {
+			"x": 203,
+			"y": 183,
+			"isSource": true
+		},
+		"small_dress_target": {
+			"x": 475,
+			"y": 445,
+			"isTarget": true,
+			"isTargetFor": ["small_dress1", "small_dress2", "big_dress1", "big_dress2"],
+			"isCorrectFor": ["small_dress1", "small_dress2"],
+            "customScore": 6.25
+		},
+		"small_dress2": {
+			"x": 203,
+			"y": 565,
+			"isSource": true
+		},
+		"small_ball1": {
+			"x": 783,
+			"y": 294,
+			"isSource": true
+		},
+		"small_ball_target": {
+			"x": 1101,
+			"y": 289,
+			"isTarget": true,
+			"isTargetFor": ["small_ball1", "small_ball2", "small_ball3", "big_ball1", "big_ball2"],
+			"isCorrectFor": ["small_ball1", "small_ball2", "small_ball3"],
+            "customScore": 5
+		},
+		"small_ball2": {
+			"x": 783,
+			"y": 379,
+			"isSource": true
+		},
+		"small_ball3": {
+			"x": 783,
+			"y": 582,
+			"isSource": true
+		},
+		"big_ball1": {
+			"x": 766,
+			"y": 170,
+			"isSource": true
+		},
+		"big_ball_target": {
+			"x": 1086,
+			"y": 428,
+			"isTarget": true,
+			"isTargetFor": ["small_ball1", "small_ball2", "small_ball3", "big_ball1", "big_ball2"],
+			"isCorrectFor": ["big_ball1", "big_ball2"],
+            "customScore": 5
+		},
+		"big_ball2": {
+			"x": 766,
+			"y": 463,
+			"isSource": true
+		},
+		"SoundIcon": {
+			"x": 1020,
+			"y": 57
+		},
+		"Titlecopy": {
+			"x": 323,
+			"y": 39
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"Rectangle4copy5": "Rectangle4copy5.png",
+		"Squre": "Squre.png",
+		"Rectangle4copy6": "Rectangle4copy6.png",
+		"Squrecopy": "Squrecopy.png",
+		"Rectangle4copy10": "Rectangle4copy10.png",
+		"Rectangle4copy11": "Rectangle4copy11.png",
+		"big_dress1": "FAVPNGdressclothingg.png",
+		"big_dress_target": "FAVPNGdressclothingg_0.png",
+		"big_dress2": "FAVPNGdressclothingg_1.png",
+		"small_dress1": "FAVPNGdressclothingg_2.png",
+		"small_dress_target": "FAVPNGdressclothingg_3.png",
+		"small_dress2": "FAVPNGdressclothingg_4.png",
+		"small_ball1": "VectorSmartObjectcop.png",
+		"small_ball_target": "VectorSmartObjectcop_0.png",
+		"small_ball2": "VectorSmartObjectcop_1.png",
+		"small_ball3": "VectorSmartObjectcop_2.png",
+		"big_ball1": "VectorSmartObjectcop_3.png",
+		"big_ball_target": "VectorSmartObjectcop_4.png",
+		"big_ball2": "VectorSmartObjectcop_5.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

@@ -1,0 +1,344 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -41
+		},
+		"Layer22copy": {
+			"x": 102,
+			"y": 149
+		},
+		"Layer22copy5": {
+			"x": 102,
+			"y": 263
+		},
+		"Layer22copy2": {
+			"x": 102,
+			"y": 379
+		},
+		"Layer22copy6": {
+			"x": 102,
+			"y": 493
+		},
+		"Layer22copy3": {
+			"x": 232,
+			"y": 149
+		},
+		"Layer22copy7": {
+			"x": 232,
+			"y": 263
+		},
+		"Layer22copy3_0": {
+			"x": 232,
+			"y": 379
+		},
+		"Layer22copy7_0": {
+			"x": 232,
+			"y": 493
+		},
+		"Layer22copy4": {
+			"x": 360,
+			"y": 149
+		},
+		"Layer22copy8": {
+			"x": 360,
+			"y": 263
+		},
+		"Layer22copy4_0": {
+			"x": 360,
+			"y": 379
+		},
+		"Layer22copy8_0": {
+			"x": 360,
+			"y": 493
+		},
+		"Layer22copy9": {
+			"x": 485,
+			"y": 149
+		},
+		"RoundedRectangle1cop": {
+			"x": 840,
+			"y": 145,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Layer22copy13"]
+		},
+		"RoundedRectangle1cop_0": {
+			"x": 840,
+			"y": 256,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Layer24copy2"]
+		},
+		"RoundedRectangle1cop_1": {
+			"x": 840,
+			"y": 375,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Layer32copy"]
+		},
+		"RoundedRectangle1cop_2": {
+			"x": 840,
+			"y": 486,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["Layer31copy4"]
+		},
+		"Layer22copy9_0": {
+			"x": 485,
+			"y": 263
+		},
+		"Layer22copy9_1": {
+			"x": 485,
+			"y": 379
+		},
+		"Layer22copy9_2": {
+			"x": 485,
+			"y": 493
+		},
+		"Layer22copy10": {
+			"x": 606,
+			"y": 149
+		},
+		"Layer22copy10_0": {
+			"x": 606,
+			"y": 263
+		},
+		"Layer22copy10_1": {
+			"x": 606,
+			"y": 379
+		},
+		"Layer22copy10_2": {
+			"x": 606,
+			"y": 493
+		},
+		"Layer22copy12": {
+			"x": 721,
+			"y": 149
+		},
+		"Layer22copy12_0": {
+			"x": 721,
+			"y": 263
+		},
+		"Layer22copy12_1": {
+			"x": 721,
+			"y": 379
+		},
+		"Layer22copy12_2": {
+			"x": 721,
+			"y": 493
+		},
+		"VectorSmartObject": {
+			"x": 973,
+			"y": 197
+		},
+		"Layer22": {
+			"x": 372,
+			"y": 172
+		},
+		"Layer22copy11": {
+			"x": 498,
+			"y": 172
+		},
+		"Layer31": {
+			"x": 123,
+			"y": 505
+		},
+		"Layer31copy": {
+			"x": 253,
+			"y": 505
+		},
+		"Layer31copy2": {
+			"x": 509,
+			"y": 505
+		},
+		"Layer31copy3": {
+			"x": 626,
+			"y": 505
+		},
+		"Layer32": {
+			"x": 367,
+			"y": 411
+		},
+		"Layer32copy2": {
+			"x": 494,
+			"y": 411
+		},
+		"Layer29": {
+			"x": 123,
+			"y": 396
+		},
+		"Layer29copy2": {
+			"x": 247,
+			"y": 396
+		},
+		"Layer29copy": {
+			"x": 619,
+			"y": 396
+		},
+		"Layer29copy3": {
+			"x": 743,
+			"y": 396
+		},
+		"Layer30copy": {
+			"x": 372,
+			"y": 521
+		},
+		"Layer30copy2": {
+			"x": 735,
+			"y": 521
+		},
+		"Layer23": {
+			"x": 114,
+			"y": 166
+		},
+		"Layer23copy": {
+			"x": 254,
+			"y": 166
+		},
+		"Layer23copy3": {
+			"x": 738,
+			"y": 166
+		},
+		"Layer24": {
+			"x": 113,
+			"y": 278
+		},
+		"Layer24copy": {
+			"x": 498,
+			"y": 278
+		},
+		"Layer25": {
+			"x": 256,
+			"y": 287
+		},
+		"Layer25copy": {
+			"x": 631,
+			"y": 287
+		},
+		"Layer26": {
+			"x": 379,
+			"y": 284
+		},
+		"Layer26copy": {
+			"x": 744,
+			"y": 285
+		},
+		"Layer23copy2": {
+			"x": 634,
+			"y": 166
+		},
+		"Layer22copy13": {
+			"x": 1183,
+			"y": 305,
+            "isDraggable": true
+		},
+		"Layer32copy": {
+			"x": 1226,
+			"y": 368,
+            "isDraggable": true
+		},
+		"Layer31copy4": {
+			"x": 1100,
+			"y": 379,
+            "isDraggable": true
+		},
+		"Layer28copy2": {
+			"x": 1174,
+			"y": 434,
+            "isDraggable": true
+		},
+		"Layer30copy3": {
+			"x": 1129,
+			"y": 499,
+            "isDraggable": true
+		},
+		"Layer24copy2": {
+			"x": 1048,
+			"y": 284,
+            "isDraggable": true
+		},
+		"Layer26copy2": {
+			"x": 1011,
+			"y": 377,
+            "isDraggable": true
+		},
+		"SoundIcon": {
+			"x": 1208,
+			"y": 61
+		},
+		"Titlecopy": {
+			"x": 129,
+			"y": 45
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"Layer22copy": "Layer22copy.png",
+		"Layer22copy5": "Layer22copy5.png",
+		"Layer22copy2": "Layer22copy2.png",
+		"Layer22copy6": "Layer22copy6.png",
+		"Layer22copy3": "Layer22copy3.png",
+		"Layer22copy7": "Layer22copy7.png",
+		"Layer22copy3_0": "Layer22copy3_0.png",
+		"Layer22copy7_0": "Layer22copy7_0.png",
+		"Layer22copy4": "Layer22copy4.png",
+		"Layer22copy8": "Layer22copy8.png",
+		"Layer22copy4_0": "Layer22copy4_0.png",
+		"Layer22copy8_0": "Layer22copy8_0.png",
+		"Layer22copy9": "Layer22copy9.png",
+		"RoundedRectangle1cop": "RoundedRectangle1cop.png",
+		"RoundedRectangle1cop_0": "RoundedRectangle1cop_0.png",
+		"RoundedRectangle1cop_1": "RoundedRectangle1cop_1.png",
+		"RoundedRectangle1cop_2": "RoundedRectangle1cop_2.png",
+		"Layer22copy9_0": "Layer22copy9_0.png",
+		"Layer22copy9_1": "Layer22copy9_1.png",
+		"Layer22copy9_2": "Layer22copy9_2.png",
+		"Layer22copy10": "Layer22copy10.png",
+		"Layer22copy10_0": "Layer22copy10_0.png",
+		"Layer22copy10_1": "Layer22copy10_1.png",
+		"Layer22copy10_2": "Layer22copy10_2.png",
+		"Layer22copy12": "Layer22copy12.png",
+		"Layer22copy12_0": "Layer22copy12_0.png",
+		"Layer22copy12_1": "Layer22copy12_1.png",
+		"Layer22copy12_2": "Layer22copy12_2.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"Layer22": "Layer22.png",
+		"Layer22copy11": "Layer22copy11.png",
+		"Layer22copy13": "Layer22copy13.png",
+		"Layer31": "Layer31.png",
+		"Layer31copy": "Layer31copy.png",
+		"Layer31copy2": "Layer31copy2.png",
+		"Layer31copy3": "Layer31copy3.png",
+		"Layer32": "Layer32.png",
+		"Layer32copy": "Layer32copy.png",
+		"Layer32copy2": "Layer32copy2.png",
+		"Layer31copy4": "Layer31copy4.png",
+		"Layer28copy2": "Layer28copy2.png",
+		"Layer29": "Layer29.png",
+		"Layer29copy2": "Layer29copy2.png",
+		"Layer29copy": "Layer29copy.png",
+		"Layer29copy3": "Layer29copy3.png",
+		"Layer30copy": "Layer30copy.png",
+		"Layer30copy2": "Layer30copy2.png",
+		"Layer30copy3": "Layer30copy3.png",
+		"Layer23": "Layer23.png",
+		"Layer23copy": "Layer23copy.png",
+		"Layer23copy3": "Layer23copy3.png",
+		"Layer24": "Layer24.png",
+		"Layer24copy": "Layer24copy.png",
+		"Layer24copy2": "Layer24copy2.png",
+		"Layer25": "Layer25.png",
+		"Layer25copy": "Layer25copy.png",
+		"Layer26": "Layer26.png",
+		"Layer26copy2": "Layer26copy2.png",
+		"Layer26copy": "Layer26copy.png",
+		"Layer23copy2": "Layer23copy2.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

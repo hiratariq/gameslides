@@ -1,0 +1,176 @@
+{
+    "position": {
+      "VectorSmartObject_6": {
+        "x": 707,
+        "y": 190,
+        "z": 1,
+        "isSource": true
+      },
+      "VectorSmartObjectcopy10": {
+        "x": 707,
+        "y": 353,
+        "z": 1,
+        "isSource": true
+      },
+      "VectorSmartObjectcopy11": {
+        "x": 707,
+        "y": 449,
+        "z": 1,
+        "isSource": true
+      },
+      "VectorSmartObjectcopy9": {
+        "x": 990,
+        "y": 298,
+        "z": 1,
+        "isTarget": true,
+        "isTargetFor": [
+          "VectorSmartObject_6",
+          "VectorSmartObject_7",
+          "VectorSmartObjectcopy10",
+          "VectorSmartObjectcopy11",
+          "VectorSmartObjectcopy12"
+        ],
+        "isCorrectFor": [
+          "VectorSmartObject_6",
+          "VectorSmartObjectcopy10",
+          "VectorSmartObjectcopy11"
+        ]
+      },
+      "VectorSmartObject_7": {
+        "x": 700,
+        "y": 270,
+        "z": 1,
+        "isSource": true
+      },
+      "VectorSmartObjectcopy12": {
+        "x": 700,
+        "y": 548,
+        "z": 1,
+        "isSource": true
+      },
+      "VectorSmartObjectcopy13": {
+        "x": 985,
+        "y": 452,
+        "z": 1,
+        "isTarget": true,
+        "isTargetFor": [
+          "VectorSmartObject_6",
+          "VectorSmartObject_7",
+          "VectorSmartObjectcopy10",
+          "VectorSmartObjectcopy11",
+          "VectorSmartObjectcopy12"
+        ],
+        "isCorrectFor": [
+          "VectorSmartObject_7",
+          "VectorSmartObjectcopy12"
+        ]
+      },
+      "Layer14": {
+        "x": 167,
+        "y": 188,
+        "z": 1,
+        "isSource": true
+      },
+      "Layer14copy4": {
+        "x": 167,
+        "y": 361,
+        "z": 1,
+        "isSource": true
+      },
+      "Layer15": {
+        "x": 167,
+        "y": 273,
+        "z": 1,
+        "isSource": true
+      },
+      "Layer14copy2": {
+        "x": 434,
+        "y": 276,
+        "z": 1,
+        "isTarget": true,
+        "isTargetFor": [
+          "Layer14",
+          "Layer15",
+          "Layer14copy4",
+          "Layer15copy2",
+          "Layer15copy3"
+        ],
+        "isCorrectFor": [
+          "Layer14",
+          "Layer14copy4"
+        ]
+      },
+      "Layer15copy": {
+        "x": 434,
+        "y": 432,
+        "z": 1,
+        "isTarget": true,
+        "isTargetFor": [
+          "Layer14",
+          "Layer15",
+          "Layer14copy4",
+          "Layer15copy2",
+          "Layer15copy3"
+        ],
+        "isCorrectFor": [
+          "Layer15",
+          "Layer15copy2",
+          "Layer15copy3"
+        ]
+      },
+      "Layer15copy2": {
+        "x": 167,
+        "y": 448,
+        "z": 1,
+        "isSource": true
+      },
+      "Layer15copy3": {
+        "x": 167,
+        "y": 530,
+        "z": 1,
+        "isSource": true
+      },
+      "SoundIcon": {
+        "x": 1098,
+        "y": 45,
+        "z": 1,
+        "playSound": "High-pitched-doorbell-ring-twice.mp3"
+      },
+      "Pencilcopy": {
+        "x": 1251,
+        "y": 441,
+        "z": 1
+      },
+      "Layer27copy": {
+        "x": 1240,
+        "y": 268,
+        "z": 1,
+        "isPencil": true
+      },
+      "stage_1591551734872": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "sources": {
+      "VectorSmartObject_6": "VectorSmartObject_6.png",
+      "VectorSmartObjectcopy10": "VectorSmartObjectcopy10.png",
+      "VectorSmartObjectcopy11": "VectorSmartObjectcopy11.png",
+      "VectorSmartObjectcopy9": "VectorSmartObjectcopy9.png",
+      "VectorSmartObject_7": "VectorSmartObject_7.png",
+      "VectorSmartObjectcopy12": "VectorSmartObjectcopy12.png",
+      "VectorSmartObjectcopy13": "VectorSmartObjectcopy13.png",
+      "Layer14": "Layer14.png",
+      "Layer14copy4": "Layer14copy4.png",
+      "Layer15": "Layer15.png",
+      "Layer14copy2": "Layer14copy2.png",
+      "Layer15copy": "Layer15copy.png",
+      "Layer15copy2": "Layer15copy2.png",
+      "Layer15copy3": "Layer15copy3.png",
+      "SoundIcon": "SoundIcon.png",
+      "Pencilcopy": "Pencilcopy.png",
+      "Layer27copy": "Layer27copy.png",
+      "stage_1591551734872": "stage_1591551734872.png"
+    }
+}

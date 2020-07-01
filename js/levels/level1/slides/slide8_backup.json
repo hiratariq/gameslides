@@ -1,0 +1,196 @@
+{
+	"position": {
+		"jrkafdmam": {
+			"x": 988,
+			"y": 331
+		},
+		"VectorSmartObject": {
+			"x": -54,
+			"y": -30
+		},
+		"RoundedRectangle1": {
+			"x": 681,
+			"y": 156
+		},
+		"VectorSmartObject_0": {
+			"x": 0,
+			"y": 497
+		},
+		"VectorSmartObject_1": {
+			"x": 1109,
+			"y": 575
+		},
+		"Rectangle4copy6": {
+			"x": 1158,
+			"y": 329,
+			"isCheckable": true,
+			"checkImg": {
+				"path": "slide8/Layer22.png",
+				"offset": {
+					"x": 5,
+					"y": 5
+				}
+			}
+		},
+		"Rectangle4copy7": {
+			"x": 1158,
+			"y": 414,
+			"isCheckable": true,
+			"checkImg": {
+				"path": "slide8/Layer22.png",
+				"offset": {
+					"x": 5,
+					"y": 5
+				}
+			}
+		},
+		"jefhkaweafa": {
+			"x": 977,
+			"y": 264
+		},
+		"iqiqms": {
+			"x": 686,
+			"y": 190
+		},
+		"Layer22": {
+			"x": 1005,
+			"y": 200
+		},
+		"VectorSmartObject_2": {
+			"x": 172,
+			"y": 171,
+            "isTarget": false
+		},
+		"VectorSmartObject_3": {
+			"x": 57,
+			"y": 282,
+            "isTarget": true,
+            "isTargetFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ],
+            "isCorrectFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ]
+		},
+		"VectorSmartObject_4": {
+			"x": 574,
+			"y": 164,
+            "isTarget": true,
+            "isTargetFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ],
+            "isCorrectFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ]
+		},
+		"VectorSmartObject_5": {
+			"x": 668,
+			"y": 335,
+            "isTarget": true,
+            "isTargetFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ],
+            "isCorrectFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ]
+		},
+		"VectorSmartObject_6": {
+			"x": 57,
+			"y": 450,
+            "isTarget": true,
+            "isTargetFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ],
+            "isCorrectFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ]
+		},
+		"VectorSmartObject_7": {
+			"x": 578,
+			"y": 501,
+            "isTarget": true,
+            "isTargetFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ],
+            "isCorrectFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ]
+		},
+		"VectorSmartObject_8": {
+			"x": 369,
+			"y": 158,
+            "isTarget": true,
+            "isTargetFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ],
+            "isCorrectFor": [ "VectorSmartObject_9", "Pngtreeladyhathatdec", "Pngtreeladyhathatdec_0", "VectorSmartObject_10", "VectorSmartObject_11", "VectorSmartObjectcop", "VectorSmartObject_12", "VectorSmartObjectcop_0", "Pngtreepinkladyhatil","VectorSmartObject_13" ]
+		},
+		"VectorSmartObject_9": {
+			"x": 205,
+			"y": 489,
+			"isTarget": false
+		},
+		"Pngtreeladyhathatdec": {
+			"x": 450,
+			"y": 277,
+			"isTarget": false
+		},
+		"Pngtreeladyhathatdec_0": {
+			"x": 169,
+			"y": 386,
+			"isTarget": false
+		},
+		"VectorSmartObject_10": {
+			"x": 378,
+			"y": 352,
+			"isTarget": false
+		},
+		"VectorSmartObject_11": {
+			"x": 274,
+			"y": 313,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop": {
+			"x": 473,
+			"y": 438,
+			"isTarget": false
+		},
+		"VectorSmartObject_12": {
+			"x": 299,
+			"y": 429,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop_0": {
+			"x": 418,
+			"y": 504,
+			"isTarget": false
+		},
+		"Pngtreepinkladyhatil": {
+			"x": 488,
+			"y": 367,
+			"isTarget": false
+		},
+		"VectorSmartObject_13": {
+			"x": 303,
+			"y": 566,
+			"isTarget": false
+		},
+		"SoundIcon": {
+			"x": 934,
+			"y": 56
+		},
+		"Titlecopy": {
+			"x": 416,
+			"y": 39
+		}
+	},
+	"sources": {
+		"jrkafdmam": "jrkafdmam.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"VectorSmartObject_0": "VectorSmartObject_0.png",
+		"VectorSmartObject_1": "VectorSmartObject_1.png",
+		"Rectangle4copy6": "Rectangle4copy6.png",
+		"Rectangle4copy7": "Rectangle4copy7.png",
+		"jefhkaweafa": "jefhkaweafa.png",
+		"iqiqms": "iqiqms.png",
+		"Layer22": "Layer22.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"VectorSmartObject_3": "VectorSmartObject_3.png",
+		"VectorSmartObject_4": "VectorSmartObject_4.png",
+		"VectorSmartObject_5": "VectorSmartObject_5.png",
+		"VectorSmartObject_6": "VectorSmartObject_6.png",
+		"VectorSmartObject_7": "VectorSmartObject_7.png",
+		"VectorSmartObject_8": "VectorSmartObject_8.png",
+		"VectorSmartObject_9": "VectorSmartObject_9.png",
+		"Pngtreeladyhathatdec": "Pngtreeladyhathatdec.png",
+		"Pngtreeladyhathatdec_0": "Pngtreeladyhathatdec_0.png",
+		"VectorSmartObject_10": "VectorSmartObject_10.png",
+		"VectorSmartObject_11": "VectorSmartObject_11.png",
+		"VectorSmartObjectcop": "VectorSmartObjectcop.png",
+		"VectorSmartObject_12": "VectorSmartObject_12.png",
+		"VectorSmartObjectcop_0": "VectorSmartObjectcop_0.png",
+		"Pngtreepinkladyhatil": "Pngtreepinkladyhatil.png",
+		"VectorSmartObject_13": "VectorSmartObject_13.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

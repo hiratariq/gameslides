@@ -1,0 +1,418 @@
+{
+	"position": {
+		"VectorSmartObjectcop": {
+			"x": 3,
+			"y": 73
+		},
+		"Layer24": {
+			"x": 62,
+			"y": 195
+		},
+		"Layer24copy": {
+			"x": 62,
+			"y": 278
+		},
+		"Layer24copy2": {
+			"x": 62,
+			"y": 362
+		},
+		"Layer24copy3": {
+			"x": 62,
+			"y": 447
+		},
+		"Layer24copy4": {
+			"x": 62,
+			"y": 532
+		},
+		"RoundedRectangle1": {
+			"x": 280,
+			"y": 193
+		},
+		"RoundedRectangle1cop": {
+			"x": 280,
+			"y": 274
+		},
+		"RoundedRectangle2": {
+			"x": 291,
+			"y": 280,
+            "isDroppable": true
+		},
+		"RoundedRectangle1cop_0": {
+			"x": 280,
+			"y": 357
+		},
+		"RoundedRectangle2cop": {
+			"x": 291,
+			"y": 363,
+            "isDroppable": true
+		},
+		"RoundedRectangle1cop_1": {
+			"x": 280,
+			"y": 442
+		},
+		"RoundedRectangle2cop_0": {
+			"x": 291,
+			"y": 449,
+            "isDroppable": true
+		},
+		"RoundedRectangle1cop_2": {
+			"x": 280,
+			"y": 529,
+            "isDroppable": true
+		},
+		"RoundedRectangle2cop_1": {
+			"x": 291,
+			"y": 535,
+            "isDroppable": true
+		},
+		"RoundedRectangle1cop_3": {
+			"x": 863,
+			"y": 193
+		},
+		"tl": {
+			"x": 360,
+			"y": 205
+		},
+		"layer_1": {
+			"x": 92,
+			"y": 215
+		},
+		"Layer24copy5": {
+			"x": 1198,
+			"y": 191
+		},
+		"Ellipse1": {
+			"x": 1190,
+			"y": 260,
+            "isDroppable": true
+		},
+		"Ellipse1copy": {
+			"x": 1190,
+			"y": 341,
+            "isDroppable": true
+		},
+		"Ellipse1copy2": {
+			"x": 1190,
+			"y": 422,
+            "isDroppable": true
+		},
+		"Ellipse1copy3": {
+			"x": 1190,
+			"y": 512,
+            "isDroppable": true
+		},
+		"VectorSmartObject": {
+			"x": 159,
+			"y": 206
+		},
+		"VectorSmartObjectcop_0": {
+			"x": 1092,
+			"y": 198
+		},
+		"VectorSmartObjectcop_1": {
+			"x": 1092,
+			"y": 282
+		},
+		"VectorSmartObjectcop_2": {
+			"x": 1092,
+			"y": 364
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 1092,
+			"y": 444
+		},
+		"VectorSmartObjectcop_4": {
+			"x": 1092,
+			"y": 543
+		},
+		"VectorSmartObjectcop_5": {
+			"x": 159,
+			"y": 284
+		},
+		"VectorSmartObjectcop_6": {
+			"x": 159,
+			"y": 369
+		},
+		"VectorSmartObjectcop_7": {
+			"x": 159,
+			"y": 455
+		},
+		"VectorSmartObjectcop_8": {
+			"x": 159,
+			"y": 536
+		},
+		"VectorSmartObject_0": {
+			"x": 530,
+			"y": 181
+		},
+		"layer_3": {
+			"x": 1227,
+			"y": 215
+		},
+		"layer_8": {
+			"x": 91,
+			"y": 300
+		},
+		"layer_4": {
+			"x": 89,
+			"y": 383
+		},
+		"layer_3_0": {
+			"x": 91,
+			"y": 471
+		},
+		"layer_6": {
+			"x": 90,
+			"y": 556
+		},
+		"k": {
+			"x": 938,
+			"y": 212
+		},
+		"wg": {
+			"x": 595,
+			"y": 381,
+            "isDraggable": true
+		},
+		"yr": {
+			"x": 561,
+			"y": 315,
+            "isDraggable": true
+		},
+		"k_0": {
+			"x": 674,
+			"y": 418,
+            "isDraggable": true
+		},
+		"yh": {
+			"x": 717,
+			"y": 283,
+            "isDraggable": true
+		},
+		"RoundedRectangle1cop_4": {
+			"x": 863,
+			"y": 279
+		},
+		"my": {
+			"x": 944,
+			"y": 297
+		},
+		"RoundedRectangle1cop_5": {
+			"x": 863,
+			"y": 358
+		},
+		"kjh": {
+			"x": 930,
+			"y": 371
+		},
+		"RoundedRectangle1cop_6": {
+			"x": 863,
+			"y": 445
+		},
+		"yr_0": {
+			"x": 932,
+			"y": 457
+		},
+		"RoundedRectangle1cop_7": {
+			"x": 863,
+			"y": 532
+		},
+		"tl_0": {
+			"x": 942,
+			"y": 549
+		},
+		"RoundedRectangle1cop_8": {
+			"x": 29,
+			"y": 121
+		},
+		"RoundedRectangle1cop_9": {
+			"x": 1129,
+			"y": 121
+		},
+		"RoundedRectangle1cop_10": {
+			"x": 287,
+			"y": 121
+		},
+		"RoundedRectangle1cop_11": {
+			"x": 868,
+			"y": 121
+		},
+		"ixLHdkduh": {
+			"x": 307,
+			"y": 144
+		},
+		"ixLHdxlh": {
+			"x": 61,
+			"y": 143
+		},
+		"ixLHdkduhcopy": {
+			"x": 888,
+			"y": 144
+		},
+		"ixLHdxlhcopy": {
+			"x": 1155,
+			"y": 143
+		},
+		"VectorSmartObject_1": {
+			"x": 1293,
+			"y": -34
+		},
+		"VectorSmartObject_2": {
+			"x": -6,
+			"y": -6
+		},
+		"VectorSmartObjectcop_9": {
+			"x": 158,
+			"y": -6
+		},
+		"VectorSmartObjectcop_10": {
+			"x": 336,
+			"y": -6
+		},
+		"VectorSmartObjectcop_11": {
+			"x": 576,
+			"y": -6
+		},
+		"VectorSmartObjectcop_12": {
+			"x": 792,
+			"y": -6
+		},
+		"VectorSmartObjectcop_13": {
+			"x": 992,
+			"y": -6
+		},
+		"VectorSmartObjectcop_14": {
+			"x": 1116,
+			"y": -6
+		},
+		"Titlecopy2": {
+			"x": 189,
+			"y": 12
+		},
+		"VectorSmartObject_3": {
+			"x": 0,
+			"y": -3
+		},
+		"SoundIcon": {
+			"x": 1175,
+			"y": 21
+		},
+        "layer_5": {
+			"x": 762,
+			"y": 451,
+            "isDraggable": true
+		},
+		"layer_9": {
+			"x": 678,
+			"y": 322,
+            "isDraggable": true
+		},
+		"layer_4_0": {
+			"x": 636,
+			"y": 457,
+            "isDraggable": true
+		},
+		"layer_1_0": {
+			"x": 751,
+			"y": 372,
+            "isDraggable": true
+		},
+        "wg": {
+			"x": 595,
+			"y": 381,
+            "isDraggable": true
+		},
+		"yr": {
+			"x": 561,
+			"y": 315,
+            "isDraggable": true
+		},
+		"k_0": {
+			"x": 674,
+			"y": 418,
+            "isDraggable": true
+		},
+		"yh": {
+			"x": 717,
+			"y": 283,
+            "isDraggable": true
+		}
+	},
+	"sources": {
+		"VectorSmartObjectcop": "VectorSmartObjectcop.png",
+		"Layer24": "Layer24.png",
+		"Layer24copy": "Layer24copy.png",
+		"Layer24copy2": "Layer24copy2.png",
+		"Layer24copy3": "Layer24copy3.png",
+		"Layer24copy4": "Layer24copy4.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"RoundedRectangle1cop": "RoundedRectangle1cop.png",
+		"RoundedRectangle2": "RoundedRectangle2.png",
+		"RoundedRectangle1cop_0": "RoundedRectangle1cop_0.png",
+		"RoundedRectangle2cop": "RoundedRectangle2cop.png",
+		"RoundedRectangle1cop_1": "RoundedRectangle1cop_1.png",
+		"RoundedRectangle2cop_0": "RoundedRectangle2cop_0.png",
+		"RoundedRectangle1cop_2": "RoundedRectangle1cop_2.png",
+		"RoundedRectangle2cop_1": "RoundedRectangle2cop_1.png",
+		"RoundedRectangle1cop_3": "RoundedRectangle1cop_3.png",
+		"tl": "tl.png",
+		"layer_1": "layer_1.png",
+		"Layer24copy5": "Layer24copy5.png",
+		"Ellipse1": "Ellipse1.png",
+		"Ellipse1copy": "Ellipse1copy.png",
+		"Ellipse1copy2": "Ellipse1copy2.png",
+		"Ellipse1copy3": "Ellipse1copy3.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"VectorSmartObjectcop_0": "VectorSmartObjectcop_0.png",
+		"VectorSmartObjectcop_1": "VectorSmartObjectcop_1.png",
+		"VectorSmartObjectcop_2": "VectorSmartObjectcop_2.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"VectorSmartObjectcop_4": "VectorSmartObjectcop_4.png",
+		"VectorSmartObjectcop_5": "VectorSmartObjectcop_5.png",
+		"VectorSmartObjectcop_6": "VectorSmartObjectcop_6.png",
+		"VectorSmartObjectcop_7": "VectorSmartObjectcop_7.png",
+		"VectorSmartObjectcop_8": "VectorSmartObjectcop_8.png",
+		"VectorSmartObject_0": "VectorSmartObject_0.png",
+		"layer_3": "layer_3.png",
+		"layer_8": "layer_8.png",
+		"layer_4": "layer_4.png",
+		"layer_3_0": "layer_3_0.png",
+		"layer_6": "layer_6.png",
+		"k": "k.png",
+		"RoundedRectangle1cop_4": "RoundedRectangle1cop_4.png",
+		"my": "my.png",
+		"RoundedRectangle1cop_5": "RoundedRectangle1cop_5.png",
+		"kjh": "kjh.png",
+		"RoundedRectangle1cop_6": "RoundedRectangle1cop_6.png",
+		"yr_0": "yr_0.png",
+		"RoundedRectangle1cop_7": "RoundedRectangle1cop_7.png",
+		"tl_0": "tl_0.png",
+		"RoundedRectangle1cop_8": "RoundedRectangle1cop_8.png",
+		"RoundedRectangle1cop_9": "RoundedRectangle1cop_9.png",
+		"RoundedRectangle1cop_10": "RoundedRectangle1cop_10.png",
+		"RoundedRectangle1cop_11": "RoundedRectangle1cop_11.png",
+		"ixLHdkduh": "ixLHdkduh.png",
+		"ixLHdxlh": "ixLHdxlh.png",
+		"ixLHdkduhcopy": "ixLHdkduhcopy.png",
+		"ixLHdxlhcopy": "ixLHdxlhcopy.png",
+		"VectorSmartObject_1": "VectorSmartObject_1.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"VectorSmartObjectcop_9": "VectorSmartObjectcop_9.png",
+		"VectorSmartObjectcop_10": "VectorSmartObjectcop_10.png",
+		"VectorSmartObjectcop_11": "VectorSmartObjectcop_11.png",
+		"VectorSmartObjectcop_12": "VectorSmartObjectcop_12.png",
+		"VectorSmartObjectcop_13": "VectorSmartObjectcop_13.png",
+		"VectorSmartObjectcop_14": "VectorSmartObjectcop_14.png",
+		"Titlecopy2": "Titlecopy2.png",
+		"VectorSmartObject_3": "VectorSmartObject_3.png",
+		"SoundIcon": "SoundIcon.png",
+        "layer_5": "layer_5.png",
+		"layer_9": "layer_9.png",
+		"layer_4_0": "layer_4_0.png",
+		"layer_1_0": "layer_1_0.png",
+		"wg": "wg.png",
+		"yr": "yr.png",
+		"k_0": "k_0.png",
+		"yh": "yh.png"
+	}
+}

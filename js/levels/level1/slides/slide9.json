@@ -1,0 +1,138 @@
+{
+	"position": {
+		"VectorSmartObject": {
+			"x": -222,
+			"y": -16
+		},
+		"kissclipartplayingcr": {
+			"x": 57,
+			"y": 159
+		},
+		"kissclipartplayingcr_0": {
+			"x": 1129,
+			"y": 192,
+            "isTarget": true,
+            "isTargetFor": ["word1","word2","word3","word4","word5","word6","word7","word8"],
+            "isCorrectFor": ["word1","word3","word7"]
+		},
+        "word1": {
+            "x": 822,
+            "y": 238,
+            "isSource": true
+        },
+        "word2": {
+            "x": 822,
+            "y": 286,
+            "isSource": true
+        },
+        "word3": {
+            "x": 822,
+            "y": 326,
+            "isSource": true
+        },
+        "word4": {
+            "x": 822,
+            "y": 370,
+            "isSource": true
+        },
+        "word5": {
+            "x": 822,
+            "y": 414,
+            "isSource": true
+        },
+        "word6": {
+            "x": 822,
+            "y": 460,
+            "isSource": true
+        },
+        "word7": {
+            "x": 822,
+            "y": 504,
+            "isSource": true
+        },
+        "word8": {
+            "x": 822,
+            "y": 550,
+            "isSource": true
+        },
+		"hiclipartcom5": {
+			"x": 88,
+			"y": 404
+		},
+		"hiclipartcom5copy": {
+			"x": 1162,
+			"y": 308,
+            "isTarget": true,
+            "isTargetFor": ["word1","word2","word3","word4","word5","word6","word7","word8"],
+            "isCorrectFor": ["word2","word6"]
+		},
+		"boygirlchildbasketba": {
+			"x": 403,
+			"y": 274
+		},
+		"boygirlchildbasketba_0": {
+			"x": 1142,
+			"y": 498,
+            "isTarget": true,
+            "isTargetFor": ["word1","word2","word3","word4","word5","word6","word7","word8"],
+            "isCorrectFor": ["word4","word5","word8"]
+		},
+		"wuauaryS": {
+			"x": 238,
+			"y": 201
+		},
+		"RoundedRectangle1": {
+			"x": 834,
+			"y": 129
+		},
+		"mdsud": {
+			"x": 138,
+			"y": 577
+		},
+		"pr": {
+			"x": 140,
+			"y": 617
+		},
+		"mshqreksrdOd": {
+			"x": 441,
+			"y": 445
+		},
+		"rEmndhdlruq": {
+			"x": 879,
+			"y": 141
+		},
+		"SoundIcon": {
+			"x": 1190,
+			"y": 42
+		},
+		"Titlecopy": {
+			"x": 94,
+			"y": 21
+		}
+	},
+	"sources": {
+		"VectorSmartObject": "VectorSmartObject.png",
+		"kissclipartplayingcr": "kissclipartplayingcr.png",
+		"kissclipartplayingcr_0": "kissclipartplayingcr_0.png",
+        "word1": "word1.png",
+        "word2": "word2.png",
+        "word3": "word3.png",
+        "word4": "word4.png",
+        "word5": "word5.png",
+        "word6": "word6.png",
+        "word7": "word7.png",
+        "word8": "word8.png",
+		"hiclipartcom5": "hiclipartcom5.png",
+		"hiclipartcom5copy": "hiclipartcom5copy.png",
+		"boygirlchildbasketba": "boygirlchildbasketba.png",
+		"boygirlchildbasketba_0": "boygirlchildbasketba_0.png",
+		"wuauaryS": "wuauaryS.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"mdsud": "mdsud.png",
+		"pr": "pr.png",
+		"mshqreksrdOd": "mshqreksrdOd.png",
+		"rEmndhdlruq": "rEmndhdlruq.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

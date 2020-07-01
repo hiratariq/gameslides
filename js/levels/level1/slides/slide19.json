@@ -1,0 +1,292 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -41
+		},
+		"Layer22copy": {
+			"x": 132,
+			"y": 149
+		},
+		"Layer22copy5": {
+			"x": 132,
+			"y": 263
+		},
+		"Layer22copy2": {
+			"x": 132,
+			"y": 379
+		},
+		"Layer22copy6": {
+			"x": 132,
+			"y": 493
+		},
+		"Layer22copy3": {
+			"x": 262,
+			"y": 149
+		},
+		"Layer22copy7": {
+			"x": 262,
+			"y": 263
+		},
+		"Layer22copy3_0": {
+			"x": 262,
+			"y": 379
+		},
+		"Layer22copy7_0": {
+			"x": 262,
+			"y": 493
+		},
+		"Layer22copy4": {
+			"x": 390,
+			"y": 149
+		},
+		"Layer22copy8": {
+			"x": 390,
+			"y": 263
+		},
+		"Layer22copy4_0": {
+			"x": 390,
+			"y": 379
+		},
+		"Layer22copy8_0": {
+			"x": 390,
+			"y": 493
+		},
+		"Layer22copy9": {
+			"x": 515,
+			"y": 149
+		},
+		"RoundedRectangle1": {
+			"x": 752,
+			"y": 149,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObjectcop_5"]
+		},
+		"RoundedRectangle1cop": {
+			"x": 752,
+			"y": 258,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObjectcop_4"]
+		},
+		"RoundedRectangle1cop_0": {
+			"x": 752,
+			"y": 378,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["FAVPNGcarvectorgraph"]
+		},
+		"RoundedRectangle1cop_1": {
+			"x": 752,
+			"y": 488,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "isCorrectFor": ["VectorSmartObjectcop_13"]
+		},
+		"Layer22copy9_0": {
+			"x": 515,
+			"y": 263
+		},
+		"Layer22copy9_1": {
+			"x": 515,
+			"y": 379
+		},
+		"Layer22copy9_2": {
+			"x": 515,
+			"y": 493
+		},
+		"Layer22copy10": {
+			"x": 636,
+			"y": 149
+		},
+		"Layer22copy10_0": {
+			"x": 636,
+			"y": 263
+		},
+		"Layer22copy10_1": {
+			"x": 636,
+			"y": 379
+		},
+		"Layer22copy10_2": {
+			"x": 636,
+			"y": 493
+		},
+		"VectorSmartObject": {
+			"x": 901,
+			"y": 219
+		},
+		"VectorSmartObjectcop": {
+			"x": 156,
+			"y": 176
+		},
+		"VectorSmartObject_0": {
+			"x": 273,
+			"y": 524
+		},
+		"VectorSmartObjectcop_0": {
+			"x": 417,
+			"y": 176
+		},
+		"VectorSmartObjectcop_1": {
+			"x": 665,
+			"y": 176
+		},
+		"VectorSmartObjectcop_2": {
+			"x": 292,
+			"y": 288
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 543,
+			"y": 287
+		},
+		"VectorSmartObjectcop_7": {
+			"x": 151,
+			"y": 290
+		},
+		"VectorSmartObjectcop_8": {
+			"x": 415,
+			"y": 289
+		},
+		"VectorSmartObjectcop_9": {
+			"x": 665,
+			"y": 292
+		},
+		"VectorSmartObject_1": {
+			"x": 139,
+			"y": 414
+		},
+		"VectorSmartObjectcop_10": {
+			"x": 399,
+			"y": 411
+		},
+		"VectorSmartObjectcop_11": {
+			"x": 645,
+			"y": 414
+		},
+		"FAVPNGcarvectorgraph_0": {
+			"x": 282,
+			"y": 414
+		},
+		"FAVPNGcarvectorgraph_1": {
+			"x": 537,
+			"y": 415
+		},
+		"VectorSmartObject_2": {
+			"x": 287,
+			"y": 167
+		},
+		"VectorSmartObjectcop_12": {
+			"x": 542,
+			"y": 167
+		},
+		"cheerfulcrabwhitebac": {
+			"x": 153,
+			"y": 520
+		},
+		"VectorSmartObject_3": {
+			"x": 397,
+			"y": 517
+		},
+		"VectorSmartObjectcop_14": {
+			"x": 650,
+			"y": 524
+		},
+		"cheerfulcrabwhitebac_0": {
+			"x": 534,
+			"y": 520
+		},
+		"VectorSmartObjectcop_13": {
+			"x": 1035,
+			"y": 326,
+            "isDraggable": true
+		},
+		"VectorSmartObjectcop_4": {
+			"x": 950,
+			"y": 321,
+            "isDraggable": true
+		},
+		"VectorSmartObjectcop_5": {
+			"x": 1134,
+			"y": 417,
+            "isDraggable": true
+		},
+		"VectorSmartObjectcop_6": {
+			"x": 1018,
+			"y": 401,
+            "isDraggable": true
+		},
+		"FAVPNGcarvectorgraph": {
+			"x": 1142,
+			"y": 330,
+            "isDraggable": true
+		},
+		"SoundIcon": {
+			"x": 1208,
+			"y": 61
+		},
+		"Titlecopy": {
+			"x": 129,
+			"y": 45
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"Layer22copy": "Layer22copy.png",
+		"Layer22copy5": "Layer22copy5.png",
+		"Layer22copy2": "Layer22copy2.png",
+		"Layer22copy6": "Layer22copy6.png",
+		"Layer22copy3": "Layer22copy3.png",
+		"Layer22copy7": "Layer22copy7.png",
+		"Layer22copy3_0": "Layer22copy3_0.png",
+		"Layer22copy7_0": "Layer22copy7_0.png",
+		"Layer22copy4": "Layer22copy4.png",
+		"Layer22copy8": "Layer22copy8.png",
+		"Layer22copy4_0": "Layer22copy4_0.png",
+		"Layer22copy8_0": "Layer22copy8_0.png",
+		"Layer22copy9": "Layer22copy9.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"RoundedRectangle1cop": "RoundedRectangle1cop.png",
+		"RoundedRectangle1cop_0": "RoundedRectangle1cop_0.png",
+		"RoundedRectangle1cop_1": "RoundedRectangle1cop_1.png",
+		"Layer22copy9_0": "Layer22copy9_0.png",
+		"Layer22copy9_1": "Layer22copy9_1.png",
+		"Layer22copy9_2": "Layer22copy9_2.png",
+		"Layer22copy10": "Layer22copy10.png",
+		"Layer22copy10_0": "Layer22copy10_0.png",
+		"Layer22copy10_1": "Layer22copy10_1.png",
+		"Layer22copy10_2": "Layer22copy10_2.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"VectorSmartObjectcop": "VectorSmartObjectcop.png",
+		"VectorSmartObject_0": "VectorSmartObject_0.png",
+		"VectorSmartObjectcop_0": "VectorSmartObjectcop_0.png",
+		"VectorSmartObjectcop_1": "VectorSmartObjectcop_1.png",
+		"VectorSmartObjectcop_2": "VectorSmartObjectcop_2.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"VectorSmartObjectcop_4": "VectorSmartObjectcop_4.png",
+		"VectorSmartObjectcop_5": "VectorSmartObjectcop_5.png",
+		"VectorSmartObjectcop_6": "VectorSmartObjectcop_6.png",
+		"FAVPNGcarvectorgraph": "FAVPNGcarvectorgraph.png",
+		"VectorSmartObjectcop_7": "VectorSmartObjectcop_7.png",
+		"VectorSmartObjectcop_8": "VectorSmartObjectcop_8.png",
+		"VectorSmartObjectcop_9": "VectorSmartObjectcop_9.png",
+		"VectorSmartObject_1": "VectorSmartObject_1.png",
+		"VectorSmartObjectcop_10": "VectorSmartObjectcop_10.png",
+		"VectorSmartObjectcop_11": "VectorSmartObjectcop_11.png",
+		"FAVPNGcarvectorgraph_0": "FAVPNGcarvectorgraph_0.png",
+		"FAVPNGcarvectorgraph_1": "FAVPNGcarvectorgraph_1.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"VectorSmartObjectcop_12": "VectorSmartObjectcop_12.png",
+		"cheerfulcrabwhitebac": "cheerfulcrabwhitebac.png",
+		"VectorSmartObject_3": "VectorSmartObject_3.png",
+		"VectorSmartObjectcop_13": "VectorSmartObjectcop_13.png",
+		"VectorSmartObjectcop_14": "VectorSmartObjectcop_14.png",
+		"cheerfulcrabwhitebac_0": "cheerfulcrabwhitebac_0.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

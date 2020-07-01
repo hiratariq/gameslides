@@ -1,0 +1,269 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -12
+		},
+		"Layer22": {
+			"x": 64,
+			"y": 122
+		},
+		"Layer22copy2": {
+			"x": 64,
+			"y": 309
+		},
+		"Layer22copy3": {
+			"x": 64,
+			"y": 495
+		},
+		"Layer22copy": {
+			"x": 345,
+			"y": 121,
+            "isDroppable": true,
+            "correctForInstance": true,
+            "isCorrectFor": [ "flag1", "flag2" ]
+		},
+		"Layer22copy5": {
+			"x": 345,
+			"y": 313,
+            "isDroppable": true,
+            "correctForInstance": true,
+            "isCorrectFor": [ "star1", "star2" ]
+		},
+		"Layer22copy6": {
+			"x": 554,
+			"y": 313,
+            "isDroppable": true,
+            "correctForInstance": true,
+            "isCorrectFor": [ "star1", "star2" ]
+		},
+		"Layer22copy8": {
+			"x": 1130,
+			"y": 502
+		},
+		"Layer22copy9": {
+			"x": 1130,
+			"y": 419
+		},
+		"Layer22copy10": {
+			"x": 1130,
+			"y": 329
+		},
+		"Layer22copy11": {
+			"x": 1130,
+			"y": 244
+		},
+		"Layer22copy12": {
+			"x": 1130,
+			"y": 157
+		},
+		"Layer22copy7": {
+			"x": 345,
+			"y": 497,
+            "isDroppable": true,
+            "correctForInstance": true,
+            "isCorrectFor": [ "house1", "house2" ]
+		},
+		"Layer22copy7_0": {
+			"x": 554,
+			"y": 497,
+            "isDroppable": true,
+            "correctForInstance": true,
+            "isCorrectFor": [ "house1", "house2" ]
+		},
+		"Layer22copy4": {
+			"x": 549,
+			"y": 121,
+            "isDroppable": true,
+            "correctForInstance": true,
+            "isCorrectFor": [ "flag1", "flag2" ]
+		},
+		"Pencil": {
+			"x": 1018,
+			"y": 579
+		},
+		"Pencil_0": {
+			"x": 1013,
+			"y": 405
+		},
+		"Colours": {
+			"x": 1145,
+			"y": 171,
+            "isSwatch": true
+		},
+		"House1": {
+			"x": 156,
+			"y": 523,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "house1"
+		},
+		"House1_0": {
+			"x": 229,
+			"y": 606,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "house1"
+		},
+		"House1_1": {
+			"x": 91,
+			"y": 589,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "house1"
+		},
+		"House2": {
+			"x": 95,
+			"y": 524,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "house2"
+		},
+		"House2_0": {
+			"x": 220,
+			"y": 532,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "house2"
+		},
+		"House2_1": {
+			"x": 160,
+			"y": 609,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "house2"
+		},
+		"Layer24copy2": {
+			"x": 165,
+			"y": 224,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "flag1"
+		},
+		"Layer24copy2_0": {
+			"x": 168,
+			"y": 148,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "flag1"
+		},
+		"Layer24copy2_1": {
+			"x": 106,
+			"y": 223,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "flag1"
+		},
+		"Flag2": {
+			"x": 101,
+			"y": 156,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "flag2"
+		},
+		"Flag2_0": {
+			"x": 220,
+			"y": 224,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "flag2"
+		},
+		"Flag2_1": {
+			"x": 220,
+			"y": 148,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "flag2"
+		},
+		"Star1": {
+			"x": 220,
+			"y": 338,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "star1"
+		},
+		"Star1_0": {
+			"x": 144,
+			"y": 385,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "star1"
+		},
+		"Star1_1": {
+			"x": 98,
+			"y": 420,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "star1"
+		},
+		"Star2copy": {
+			"x": 199,
+			"y": 409,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "star2"
+		},
+		"Star2copy2": {
+			"x": 153,
+			"y": 323,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "star2"
+		},
+		"Star2": {
+			"x": 89,
+			"y": 341,
+			"isDraggable": true,
+			"canColour": true,
+            "instanceName": "star2"
+		},
+		"SoundIcon": {
+			"x": 1098,
+			"y": 61
+		},
+		"Titlecopy": {
+			"x": 293,
+			"y": 40
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"Layer22": "Layer22.png",
+		"Layer22copy2": "Layer22copy2.png",
+		"Layer22copy3": "Layer22copy3.png",
+		"Layer22copy": "Layer22copy.png",
+		"Layer22copy5": "Layer22copy5.png",
+		"Layer22copy6": "Layer22copy6.png",
+		"Layer22copy8": "Layer22copy8.png",
+		"Layer22copy9": "Layer22copy9.png",
+		"Layer22copy10": "Layer22copy10.png",
+		"Layer22copy11": "Layer22copy11.png",
+		"Layer22copy12": "Layer22copy12.png",
+		"Layer22copy7": "Layer22copy7.png",
+		"Layer22copy7_0": "Layer22copy7_0.png",
+		"Layer22copy4": "Layer22copy4.png",
+		"Pencil": "Pencil.png",
+		"Pencil_0": "Pencil_0.png",
+		"Colours": "Colours.png",
+		"House1": "House1.png",
+		"House1_0": "House1_0.png",
+		"House1_1": "House1_1.png",
+		"House2": "House2.png",
+		"House2_0": "House2_0.png",
+		"House2_1": "House2_1.png",
+		"Layer24copy2": "Layer24copy2.png",
+		"Layer24copy2_0": "Layer24copy2_0.png",
+		"Layer24copy2_1": "Layer24copy2_1.png",
+		"Flag2": "Flag2.png",
+		"Flag2_0": "Flag2_0.png",
+		"Flag2_1": "Flag2_1.png",
+		"Star1": "Star1.png",
+		"Star1_0": "Star1_0.png",
+		"Star1_1": "Star1_1.png",
+		"Star2copy": "Star2copy.png",
+		"Star2copy2": "Star2copy2.png",
+		"Star2": "Star2.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

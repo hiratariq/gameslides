@@ -1,0 +1,199 @@
+{
+	"position": {
+		"background": {
+			"x": -25,
+			"y": 30
+		},
+		"trees1": {
+			"x": 1266,
+			"y": 498
+		},
+		"titlebg": {
+			"x": 202,
+			"y": -146
+		},
+		"cloud1": {
+			"x": 282,
+			"y": 28
+		},
+		"cloud2": {
+			"x": 1099,
+			"y": 13
+		},
+		"cloud3": {
+			"x": 740,
+			"y": 121
+		},
+		"cloud4": {
+			"x": 443,
+			"y": 144
+		},
+		"grass": {
+			"x": 54,
+			"y": 577
+		},
+		"bus": {
+			"x": 1121,
+			"y": 598
+		},
+		"trees2": {
+			"x": -1,
+			"y": 465
+		},
+		"singleitembg1": {
+			"x": 402,
+			"y": 246
+		},
+		"singleitembg2": {
+			"x": 402,
+			"y": 409
+		},
+		"singleitembg3": {
+			"x": 971,
+			"y": 246
+		},
+		"singleitembg4": {
+			"x": 971,
+			"y": 409
+		},
+		"fiveitembg1": {
+			"x": 118,
+			"y": 145
+		},
+		"fiveitembg2": {
+			"x": 688,
+			"y": 145
+		},
+		"flower1a": {
+			"x": 158,
+			"y": 281,
+			"isSource": true
+		},
+		"flower1large": {
+			"x": 437,
+			"y": 441,
+			"isTarget": true,
+			"isTargetFor": ["flower1a", "flower1b", "flower2a", "flower2b", "flower2c"],
+			"isCorrectFor": ["flower1a", "flower1b"]
+		},
+		"flower1b": {
+			"x": 158,
+			"y": 461,
+			"isSource": true
+		},
+		"birda": {
+			"x": 724,
+			"y": 209,
+			"isSource": true
+		},
+		"birdb": {
+			"x": 722,
+			"y": 375,
+			"isSource": true
+		},
+		"birdc": {
+			"x": 730,
+			"y": 550,
+			"isSource": true
+		},
+		"birdlarge": {
+			"x": 1007,
+			"y": 427,
+			"isTarget": true,
+			"isTargetFor": ["ducka", "duckb", "birda", "birdb", "birdc"],
+			"isCorrectFor": ["birda", "birdb", "birdc"]
+		},
+		"flower2a": {
+			"x": 157,
+			"y": 196,
+			"isSource": true
+		},
+		"flower2b": {
+			"x": 157,
+			"y": 547,
+			"isSource": true
+		},
+		"flower2c": {
+			"x": 157,
+			"y": 369,
+			"isSource": true
+		},
+		"flower2large": {
+			"x": 436,
+			"y": 281,
+			"isTarget": true,
+			"isTargetFor": ["flower1a", "flower1b", "flower2a", "flower2b", "flower2c"],
+			"isCorrectFor": ["flower2a", "flower2b", "flower2c"]
+		},
+		"ducka": {
+			"x": 732,
+			"y": 290,
+			"isSource": true
+		},
+		"duckb": {
+			"x": 732,
+			"y": 469,
+			"isSource": true
+		},
+		"ducklarge": {
+			"x": 1008,
+			"y": 278,
+			"isTarget": true,
+			"isTargetFor": ["ducka", "duckb", "birda", "birdb", "birdc"],
+			"isCorrectFor": ["ducka", "duckb"]
+		},
+		"titletext": {
+			"x": 419,
+			"y": 39
+		},
+		"pencil_txt": {
+			"x": 1251,
+			"y": 457
+		},
+		"pencil": {
+			"x": 1240,
+			"y": 284,
+            "isPencil": true
+		},
+		"soundicon": {
+			"x": 1098,
+			"y": 61
+		}
+	},
+	"sources": {
+		"background": "BG.png",
+		"trees1": "VectorSmartObject.png",
+		"titlebg": "VectorSmartObject_0.png",
+		"cloud1": "VectorSmartObject_1.png",
+		"cloud2": "VectorSmartObjectcop.png",
+		"cloud3": "VectorSmartObjectcop_0.png",
+		"cloud4": "VectorSmartObjectcop_1.png",
+		"grass": "VectorSmartObject_2.png",
+		"bus": "VectorSmartObject_3.png",
+		"trees2": "VectorSmartObject_4.png",
+		"singleitembg1": "Rectangle4copy2.png",
+		"singleitembg2": "Rectangle4copy3.png",
+		"singleitembg3": "Rectangle4copy4.png",
+		"singleitembg4": "Rectangle4copy4_0.png",
+		"fiveitembg1": "Rectangle4copy8.png",
+		"fiveitembg2": "Rectangle4copy9.png",
+		"flower1a": "PngItem3294367.png",
+		"flower1large": "PngItem3294367copy2.png",
+		"flower1b": "PngItem3294367copy.png",
+		"birda": "VectorSmartObject_5.png",
+		"birdb": "VectorSmartObjectcop_2.png",
+		"birdc": "VectorSmartObjectcop_3.png",
+		"birdlarge": "VectorSmartObjectcop_4.png",
+		"flower2a": "VectorSmartObject_6.png",
+		"flower2b": "VectorSmartObjectcop_5.png",
+		"flower2c": "VectorSmartObjectcop_6.png",
+		"flower2large": "VectorSmartObjectcop_7.png",
+		"ducka": "VectorSmartObject_7.png",
+		"duckb": "VectorSmartObjectcop_8.png",
+		"ducklarge": "VectorSmartObjectcop_9.png",
+		"titletext": "Titlecopy.png",
+		"pencil_txt": "Pencilcopy.png",
+		"pencil": "Layer27copy.png",
+		"soundicon": "SoundIcon.png"
+	}
+}

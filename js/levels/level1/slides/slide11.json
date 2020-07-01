@@ -1,0 +1,486 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -38
+		},
+		"SoundIcon": {
+			"x": 1137,
+			"y": 55
+		},
+		"Titlecopy": {
+			"x": 129,
+			"y": 27
+		},
+		"RoundedRectangle1": {
+			"x": 159,
+			"y": 135,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["one"]
+		},
+		"RoundedRectangle1cop": {
+			"x": 159,
+			"y": 237,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["two"]
+		},
+		"RoundedRectangle1cop_0": {
+			"x": 159,
+			"y": 334,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["three"]
+		},
+		"RoundedRectangle1cop_1": {
+			"x": 159,
+			"y": 439,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["four"]
+		},
+		"RoundedRectangle1cop_2": {
+			"x": 159,
+			"y": 544,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["five"]
+		},
+		"RoundedRectangle1cop_3": {
+			"x": 264,
+			"y": 135,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["one"]
+		},
+		"RoundedRectangle1cop_4": {
+			"x": 264,
+			"y": 237,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["two"]
+		},
+		"RoundedRectangle1cop_5": {
+			"x": 264,
+			"y": 334,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["three"]
+		},
+		"RoundedRectangle1cop_6": {
+			"x": 264,
+			"y": 439,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["four"]
+		},
+		"RoundedRectangle1cop_7": {
+			"x": 264,
+			"y": 544,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["five"]
+		},
+		"RoundedRectangle1cop_8": {
+			"x": 583,
+			"y": 135,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["six"]
+		},
+		"RoundedRectangle1cop_9": {
+			"x": 583,
+			"y": 237,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["seven"]
+		},
+		"RoundedRectangle1cop_10": {
+			"x": 583,
+			"y": 334,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["eight"]
+		},
+		"RoundedRectangle1cop_11": {
+			"x": 583,
+			"y": 439,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["nine"]
+		},
+		"RoundedRectangle1cop_12": {
+			"x": 583,
+			"y": 544,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["ten"]
+		},
+		"RoundedRectangle1cop_13": {
+			"x": 688,
+			"y": 135,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["six"]
+		},
+		"RoundedRectangle1cop_14": {
+			"x": 688,
+			"y": 237,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["seven"]
+		},
+		"RoundedRectangle1cop_15": {
+			"x": 688,
+			"y": 334,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["eight"]
+		},
+		"RoundedRectangle1cop_16": {
+			"x": 688,
+			"y": 439,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["nine"]
+		},
+		"RoundedRectangle1cop_17": {
+			"x": 688,
+			"y": 544,
+            "isDroppable": true,
+            "snapToCenter": true,
+            "dragLimit": 1,
+            "correctForInstance": true,
+            "isCorrectFor": ["ten"]
+		},
+		"VectorSmartObject_2": {
+			"x": 53,
+			"y": 135
+		},
+		"Layer22": {
+			"x": 897,
+			"y": 245
+		},
+		"number1b": {
+			"x": 89,
+			"y": 160
+		},
+		"VectorSmartObjectcop_2": {
+			"x": 53,
+			"y": 236
+		},
+		"number2b": {
+			"x": 87,
+			"y": 262
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 53,
+			"y": 337
+		},
+		"number3c": {
+			"x": 88,
+			"y": 364
+		},
+		"VectorSmartObjectcop_4": {
+			"x": 53,
+			"y": 441
+		},
+		"number4b": {
+			"x": 85,
+			"y": 466
+		},
+		"VectorSmartObjectcop_5": {
+			"x": 53,
+			"y": 542
+		},
+		"number5b": {
+			"x": 88,
+			"y": 571
+		},
+		"VectorSmartObjectcop_6": {
+			"x": 475,
+			"y": 135
+		},
+		"layer_6_0": {
+			"x": 508,
+			"y": 159
+		},
+		"VectorSmartObjectcop_7": {
+			"x": 475,
+			"y": 236
+		},
+		"layer_7_0": {
+			"x": 509,
+			"y": 262
+		},
+		"VectorSmartObjectcop_8": {
+			"x": 475,
+			"y": 337
+		},
+		"layer_8_0": {
+			"x": 510,
+			"y": 364
+		},
+		"VectorSmartObjectcop_9": {
+			"x": 475,
+			"y": 441
+		},
+		"layer_9_0": {
+			"x": 509,
+			"y": 466
+		},
+		"VectorSmartObjectcop_10": {
+			"x": 475,
+			"y": 542
+		},
+		"layer_10_0": {
+			"x": 492,
+			"y": 571
+		},
+		"layer_4": {
+			"x": 1031,
+			"y": 311,
+            "isDraggable": true,
+            "onDropImg": "4copy_0.png",
+            "instanceName": "four"
+		},
+		"layer_5": {
+			"x": 1069,
+			"y": 367,
+            "isDraggable": true,
+            "onDropImg": "5copy_0.png",
+            "instanceName": "five"
+		},
+		"number5a": {
+			"x": 1250,
+			"y": 316,
+            "isDraggable": true,
+            "onDropImg": "5copy_0.png",
+            "instanceName": "five"
+		},
+		"layer_6": {
+			"x": 1002,
+			"y": 377,
+            "isDraggable": true,
+            "onDropImg": "layer_6_0.png",
+            "instanceName": "six"
+		},
+		"number6": {
+			"x": 1200,
+			"y": 322,
+            "isDraggable": true,
+            "onDropImg": "layer_6_0.png",
+            "instanceName": "six"
+		},
+		"layer_7": {
+			"x": 1123,
+			"y": 359,
+            "isDraggable": true,
+            "onDropImg": "layer_7_0.png",
+            "instanceName": "seven"
+		},
+		"number7": {
+			"x": 1121,
+			"y": 306,
+            "isDraggable": true,
+            "onDropImg": "layer_7_0.png",
+            "instanceName": "seven"
+		},
+		"layer_8": {
+			"x": 985,
+			"y": 285,
+            "isDraggable": true,
+            "onDropImg": "layer_8_0.png",
+            "instanceName": "eight"
+		},
+		"number8": {
+			"x": 1225,
+			"y": 260,
+            "isDraggable": true,
+            "onDropImg": "layer_8_0.png",
+            "instanceName": "eight"
+		},
+		"layer_9": {
+			"x": 932,
+			"y": 324,
+            "isDraggable": true,
+            "onDropImg": "layer_9_0.png",
+            "instanceName": "nine"
+		},
+		"number9": {
+			"x": 1015,
+			"y": 226,
+            "isDraggable": true,
+            "onDropImg": "layer_9_0.png",
+            "instanceName": "nine"
+		},
+		"layer_10": {
+			"x": 1151,
+			"y": 204,
+            "isDraggable": true,
+            "onDropImg": "layer_10_0.png",
+            "instanceName": "ten"
+		},
+		"number10": {
+			"x": 886,
+			"y": 239,
+            "isDraggable": true,
+            "onDropImg": "layer_10_0.png",
+            "instanceName": "ten"
+		},
+		"number2c": {
+			"x": 953,
+			"y": 367,
+            "isDraggable": true,
+            "onDropImg": "2copy2.png",
+            "instanceName": "two"
+		},
+		"number2a": {
+			"x": 907,
+			"y": 366,
+            "isDraggable": true,
+            "onDropImg": "2copy2.png",
+            "instanceName": "two"
+		},
+		"number3a": {
+			"x": 885,
+			"y": 306,
+            "isDraggable": true,
+            "onDropImg": "3copy_0.png",
+            "instanceName": "three"
+		},
+		"number3b": {
+			"x": 1082,
+			"y": 271,
+            "isDraggable": true,
+            "onDropImg": "3copy_0.png",
+            "instanceName": "three"
+		},
+		"number4a": {
+			"x": 1224,
+			"y": 367,
+            "isDraggable": true,
+            "onDropImg": "4copy_0.png",
+            "instanceName": "four"
+		},
+		"number1d": {
+			"x": 1171,
+			"y": 364,
+            "isDraggable": true,
+            "onDropImg": "1copy2.png",
+            "instanceName": "one"
+		},
+		"number1e": {
+			"x": 1166,
+			"y": 280,
+            "isDraggable": true,
+            "onDropImg": "1copy2.png",
+            "instanceName": "one"
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"RoundedRectangle1cop": "RoundedRectangle1cop.png",
+		"RoundedRectangle1cop_0": "RoundedRectangle1cop_0.png",
+		"RoundedRectangle1cop_1": "RoundedRectangle1cop_1.png",
+		"RoundedRectangle1cop_2": "RoundedRectangle1cop_2.png",
+		"RoundedRectangle1cop_3": "RoundedRectangle1cop_3.png",
+		"RoundedRectangle1cop_4": "RoundedRectangle1cop_4.png",
+		"RoundedRectangle1cop_5": "RoundedRectangle1cop_5.png",
+		"RoundedRectangle1cop_6": "RoundedRectangle1cop_6.png",
+		"RoundedRectangle1cop_7": "RoundedRectangle1cop_7.png",
+		"RoundedRectangle1cop_8": "RoundedRectangle1cop_8.png",
+		"RoundedRectangle1cop_9": "RoundedRectangle1cop_9.png",
+		"RoundedRectangle1cop_10": "RoundedRectangle1cop_10.png",
+		"RoundedRectangle1cop_11": "RoundedRectangle1cop_11.png",
+		"RoundedRectangle1cop_12": "RoundedRectangle1cop_12.png",
+		"RoundedRectangle1cop_13": "RoundedRectangle1cop_13.png",
+		"RoundedRectangle1cop_14": "RoundedRectangle1cop_14.png",
+		"RoundedRectangle1cop_15": "RoundedRectangle1cop_15.png",
+		"RoundedRectangle1cop_16": "RoundedRectangle1cop_16.png",
+		"RoundedRectangle1cop_17": "RoundedRectangle1cop_17.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"Layer22": "Layer22.png",
+		"number1b": "1copy2.png",
+		"layer_4": "layer_4.png",
+		"layer_5": "layer_5.png",
+		"number5a": "5copy.png",
+		"layer_6": "layer_6.png",
+		"number6": "6copy.png",
+		"layer_7": "layer_7.png",
+		"number7": "7copy.png",
+		"layer_8": "layer_8.png",
+		"number8": "8copy.png",
+		"layer_9": "layer_9.png",
+		"number9": "9copy.png",
+		"layer_10": "layer_10.png",
+		"number10": "10copy.png",
+		"number2c": "2copy3.png",
+		"number2a": "2copy.png",
+		"number3a": "3copy.png",
+		"number3b": "3copy2.png",
+		"number4a": "4copy.png",
+		"number1d": "1copy4.png",
+		"number1e": "1copy5.png",
+		"VectorSmartObjectcop_2": "VectorSmartObjectcop_2.png",
+		"number2b": "2copy2.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"number3c": "3copy_0.png",
+		"VectorSmartObjectcop_4": "VectorSmartObjectcop_4.png",
+		"number4b": "4copy_0.png",
+		"VectorSmartObjectcop_5": "VectorSmartObjectcop_5.png",
+		"number5b": "5copy_0.png",
+		"VectorSmartObjectcop_6": "VectorSmartObjectcop_6.png",
+		"layer_6_0": "layer_6_0.png",
+		"VectorSmartObjectcop_7": "VectorSmartObjectcop_7.png",
+		"layer_7_0": "layer_7_0.png",
+		"VectorSmartObjectcop_8": "VectorSmartObjectcop_8.png",
+		"layer_8_0": "layer_8_0.png",
+		"VectorSmartObjectcop_9": "VectorSmartObjectcop_9.png",
+		"layer_9_0": "layer_9_0.png",
+		"VectorSmartObjectcop_10": "VectorSmartObjectcop_10.png",
+		"layer_10_0": "layer_10_0.png"
+	}
+}

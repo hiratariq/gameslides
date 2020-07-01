@@ -1,0 +1,438 @@
+{
+  "position": {
+    "Layer22copy": {
+      "x": 345,
+      "y": 115,
+      "z": 1,
+      "source": "Layer22copy.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "flag1", "count": 3},
+                       { "name": "flag2", "count": 3}]
+    },
+    "Layer22copy5": {
+      "x": 345,
+      "y": 307,
+      "z": 1,
+      "source": "Layer22copy5.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "star1", "count": 3},
+                       { "name": "star2", "count": 4}]
+    },
+    "Layer22copy6": {
+      "x": 554,
+      "y": 307,
+      "z": 1,
+      "source": "Layer22copy6.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "star1", "count": 3},
+                       { "name": "star2", "count": 4}]
+    },
+    "Layer22copy7": {
+      "x": 345,
+      "y": 491,
+      "z": 1,
+      "source": "Layer22copy7.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "house1", "count": 3},
+                       { "name": "house2", "count": 3}]
+    },
+    "Layer22copy7_1": {
+      "x": 554,
+      "y": 491,
+      "z": 1,
+      "source": "Layer22copy7_1.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "house1", "count": 3},
+                       { "name": "house2", "count": 3}]
+    },
+    "Layer22copy4": {
+      "x": 549,
+      "y": 115,
+      "z": 1,
+      "source": "Layer22copy4.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "flag1", "count": 3},
+                       { "name": "flag2", "count": 3}]
+    },
+    "Colours": {
+      "x": 1145,
+      "y": 164,
+      "z": 1,
+      "source": "Colours.png",
+      "isSwatch": true
+    },
+    "House2WallOutline": {
+      "x": 161,
+      "y": 589,
+      "z": 1,
+      "source": "House2WallOutline.png",
+      "canColour": true,
+      "groupName": "house1c",
+      "instanceName": "house1",
+      "isDraggable": true
+    },
+    "House2WindowOutline": {
+      "x": 188,
+      "y": 618,
+      "z": 1,
+      "source": "House2WindowOutline.png",
+      "canColour": true,
+      "groupName": "house1c",
+      "instanceName": "house1"
+    },
+    "House2DoorOutline": {
+      "x": 172,
+      "y": 623,
+      "z": 1,
+      "source": "House2DoorOutline.png",
+      "canColour": true,
+      "groupName": "house1c",
+      "instanceName": "house1"
+    },
+    "House2WallOutline_1": {
+      "x": 97,
+      "y": 516,
+      "z": 1,
+      "source": "House2WallOutline_1.png",
+      "canColour": true,
+      "groupName": "house1a",
+      "instanceName": "house1",
+      "isDraggable": true
+    },
+    "House2WindowOutline_1": {
+      "x": 124,
+      "y": 545,
+      "z": 1,
+      "source": "House2WindowOutline_1.png",
+      "canColour": true,
+      "groupName": "house1a",
+      "instanceName": "house1"
+    },
+    "House2DoorOutline_1": {
+      "x": 108,
+      "y": 550,
+      "z": 1,
+      "source": "House2DoorOutline_1.png",
+      "canColour": true,
+      "groupName": "house1a",
+      "instanceName": "house1"
+    },
+    "House2WallOutline_2": {
+      "x": 228,
+      "y": 513,
+      "z": 1,
+      "source": "House2WallOutline_2.png",
+      "canColour": true,
+      "groupName": "house1b",
+      "instanceName": "house1",
+      "isDraggable": true
+    },
+    "House2WindowOutline_2": {
+      "x": 255,
+      "y": 542,
+      "z": 1,
+      "source": "House2WindowOutline_2.png",
+      "canColour": true,
+      "groupName": "house1b",
+      "instanceName": "house1"
+    },
+    "House2DoorOutline_2": {
+      "x": 239,
+      "y": 547,
+      "z": 1,
+      "source": "House2DoorOutline_2.png",
+      "canColour": true,
+      "groupName": "house1b",
+      "instanceName": "house1"
+    },
+    "House1WallOurline": {
+      "x": 101,
+      "y": 614,
+      "z": 1,
+      "source": "House1WallOurline.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2b",
+      "isDraggable": true
+    },
+    "House1DoorOutline": {
+      "x": 115,
+      "y": 629,
+      "z": 1,
+      "source": "House1DoorOutline.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2b"
+    },
+    "House1RoofOutline_1": {
+      "x": 95,
+      "y": 595,
+      "z": 1,
+      "source": "House1RoofOutline_1.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2b"
+    },
+    "House1WallOurline_1": {
+      "x": 166,
+      "y": 527,
+      "z": 1,
+      "source": "House1WallOurline_1.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2a",
+      "isDraggable": true
+    },
+    "House1DoorOutline_1": {
+      "x": 180,
+      "y": 542,
+      "z": 1,
+      "source": "House1DoorOutline_1.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2a"
+    },
+    "House1RoofOutline_3": {
+      "x": 160,
+      "y": 508,
+      "z": 1,
+      "source": "House1RoofOutline_3.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2a"
+    },
+    "House1WallOurline_2": {
+      "x": 233,
+      "y": 614,
+      "z": 1,
+      "source": "House1WallOurline_2.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2c",
+      "isDraggable": true
+    },
+    "House1DoorOutline_2": {
+      "x": 247,
+      "y": 629,
+      "z": 1,
+      "source": "House1DoorOutline_2.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2c"
+    },
+    "House1RoofOutline_5": {
+      "x": 227,
+      "y": 595,
+      "z": 1,
+      "source": "House1RoofOutline_5.png",
+      "canColour": true,
+      "instanceName": "house2",
+      "groupName": "house2c"
+    },
+    "OutlineStar2": {
+      "x": 136,
+      "y": 416,
+      "z": 1,
+      "source": "OutlineStar2.png",
+      "instanceName": "star2",
+      "groupName": "star2c",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineStar2_1": {
+      "x": 217,
+      "y": 331,
+      "z": 1,
+      "source": "OutlineStar2_1.png",
+      "instanceName": "star2",
+      "groupName": "star2d",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineStar2_2": {
+      "x": 87,
+      "y": 381,
+      "z": 1,
+      "source": "OutlineStar2_2.png",
+      "instanceName": "star2",
+      "groupName": "star2a",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineStar2_3": {
+      "x": 159,
+      "y": 370,
+      "z": 1,
+      "source": "OutlineStar2_3.png",
+      "instanceName": "star2",
+      "groupName": "star2b",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineStar1": {
+      "x": 91,
+      "y": 319,
+      "z": 1,
+      "source": "OutlineStar1.png",
+      "instanceName": "star1",
+      "groupName": "star1a",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineStar1_1": {
+      "x": 153,
+      "y": 318,
+      "z": 1,
+      "source": "OutlineStar1_1.png",
+      "instanceName": "star1",
+      "groupName": "star1b",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineStar1_2": {
+      "x": 221,
+      "y": 398,
+      "z": 1,
+      "source": "OutlineStar1_2.png",
+      "instanceName": "star1",
+      "groupName": "star1c",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineFlag11": {
+      "x": 173,
+      "y": 233,
+      "z": 1,
+      "source": "OutlineFlag11.png",
+      "instanceName": "flag1",
+      "groupName": "flag1c",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineFlag12": {
+      "x": 126,
+      "y": 147,
+      "z": 1,
+      "source": "OutlineFlag12.png",
+      "instanceName": "flag1",
+      "groupName": "flag1a",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineFlag13": {
+      "x": 227,
+      "y": 185,
+      "z": 1,
+      "source": "OutlineFlag13.png",
+      "instanceName": "flag1",
+      "groupName": "flag1b",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineFlag23": {
+      "x": 184,
+      "y": 144,
+      "z": 1,
+      "source": "OutlineFlag23.png",
+      "instanceName": "flag2",
+      "groupName": "flag2a",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineFlag22": {
+      "x": 158,
+      "y": 194,
+      "z": 1,
+      "source": "OutlineFlag22.png",
+      "instanceName": "flag2",
+      "groupName": "flag2b",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "OutlineFlag21": {
+      "x": 98,
+      "y": 230,
+      "z": 1,
+      "source": "OutlineFlag21.png",
+      "instanceName": "flag2",
+      "groupName": "flag2c",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "SoundIcon": {
+      "x": 1098,
+      "y": 55,
+      "z": 1,
+      "source": "SoundIcon.png"
+    },
+    "Pencil": {
+      "x": 1018,
+      "y": 573,
+      "z": 1,
+      "source": "Pencil.png"
+    },
+    "Pencil_1": {
+      "x": 971,
+      "y": 398,
+      "z": 1,
+      "source": "Pencil_1.png",
+      "isPencil": true
+    },
+    "stage_1592311401928": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "source": "stage_1592311401928.png"
+    }
+  },
+  "sources": {
+    "Layer22copy": "Layer22copy.png",
+    "Layer22copy5": "Layer22copy5.png",
+    "Layer22copy6": "Layer22copy6.png",
+    "Layer22copy7": "Layer22copy7.png",
+    "Layer22copy7_1": "Layer22copy7_1.png",
+    "Layer22copy4": "Layer22copy4.png",
+    "Colours": "Colours.png",
+    "House2WallOutline": "House2WallOutline.png",
+    "House2WindowOutline": "House2WindowOutline.png",
+    "House2DoorOutline": "House2DoorOutline.png",
+    "House2WallOutline_1": "House2WallOutline_1.png",
+    "House2WindowOutline_1": "House2WindowOutline_1.png",
+    "House2DoorOutline_1": "House2DoorOutline_1.png",
+    "House2WallOutline_2": "House2WallOutline_2.png",
+    "House2WindowOutline_2": "House2WindowOutline_2.png",
+    "House2DoorOutline_2": "House2DoorOutline_2.png",
+    "House1WallOurline": "House1WallOurline.png",
+    "House1DoorOutline": "House1DoorOutline.png",
+    "House1RoofOutline_1": "House1RoofOutline_1.png",
+    "House1WallOurline_1": "House1WallOurline_1.png",
+    "House1DoorOutline_1": "House1DoorOutline_1.png",
+    "House1RoofOutline_3": "House1RoofOutline_3.png",
+    "House1WallOurline_2": "House1WallOurline_2.png",
+    "House1DoorOutline_2": "House1DoorOutline_2.png",
+    "House1RoofOutline_5": "House1RoofOutline_5.png",
+    "OutlineStar2": "OutlineStar2.png",
+    "OutlineStar2_1": "OutlineStar2_1.png",
+    "OutlineStar2_2": "OutlineStar2_2.png",
+    "OutlineStar2_3": "OutlineStar2_3.png",
+    "OutlineStar1": "OutlineStar1.png",
+    "OutlineStar1_1": "OutlineStar1_1.png",
+    "OutlineStar1_2": "OutlineStar1_2.png",
+    "OutlineFlag11": "OutlineFlag11.png",
+    "OutlineFlag12": "OutlineFlag12.png",
+    "OutlineFlag13": "OutlineFlag13.png",
+    "OutlineFlag23": "OutlineFlag23.png",
+    "OutlineFlag22": "OutlineFlag22.png",
+    "OutlineFlag21": "OutlineFlag21.png",
+    "SoundIcon": "SoundIcon.png",
+    "Pencil": "Pencil.png",
+    "Pencil_1": "Pencil_1.png",
+    "stage_1592311401928": "stage_1592311401928.png"
+  }
+}

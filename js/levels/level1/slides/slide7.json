@@ -1,0 +1,244 @@
+{
+  "position": {
+    "Rectangle4copy6": {
+      "x": 1177,
+      "y": 297,
+      "z": 1,
+      "source": "Rectangle4copy6.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "Layer3"
+      ]
+    },
+    "Rectangle4copy7": {
+      "x": 1177,
+      "y": 382,
+      "z": 1,
+      "source": "Rectangle4copy7.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "Layer2"
+      ]
+    },
+    "Squral": {
+      "x": 182,
+      "y": 203,
+      "z": 1,
+      "source": "Squral.png",
+      "isSource": true
+    },
+    "Squral_1": {
+      "x": 182,
+      "y": 282,
+      "z": 1,
+      "source": "Squral_1.png",
+      "isSource": true
+    },
+    "Squral_2": {
+      "x": 182,
+      "y": 437,
+      "z": 1,
+      "source": "Squral_2.png",
+      "isSource": true
+    },
+    "Squral_3": {
+      "x": 182,
+      "y": 512,
+      "z": 1,
+      "source": "Squral_3.png",
+      "isSource": true
+    },
+    "Squral_4": {
+      "x": 182,
+      "y": 586,
+      "z": 1,
+      "source": "Squral_4.png",
+      "isSource": true
+    },
+    "Squral_5": {
+      "x": 182,
+      "y": 359,
+      "z": 1,
+      "source": "Squral_5.png",
+      "isSource": true
+    },
+    "Mango": {
+      "x": 567,
+      "y": 195,
+      "z": 1,
+      "source": "Mango.png",
+      "matchLimit": 1,
+      "isTarget": true,
+      "isTargetFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ],
+      "isCorrectFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ]
+    },
+    "Mango_1": {
+      "x": 567,
+      "y": 290,
+      "z": 1,
+      "source": "Mango_1.png",
+      "matchLimit": 1,
+      "isTarget": true,
+      "isTargetFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ],
+      "isCorrectFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ]
+    },
+    "Mango_2": {
+      "x": 567,
+      "y": 467,
+      "z": 1,
+      "source": "Mango_2.png",
+      "matchLimit": 1,
+      "isTarget": true,
+      "isTargetFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ],
+      "isCorrectFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ]
+    },
+    "Mango_3": {
+      "x": 567,
+      "y": 376,
+      "z": 1,
+      "source": "Mango_3.png",
+      "matchLimit": 1,
+      "isTarget": true,
+      "isTargetFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ],
+      "isCorrectFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ]
+    },
+    "Mango_4": {
+      "x": 567,
+      "y": 566,
+      "z": 1,
+      "source": "Mango_4.png",
+      "matchLimit": 1,
+      "isTarget": true,
+      "isTargetFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ],
+      "isCorrectFor": [
+        "Squral",
+        "Squral_1",
+        "Squral_5",
+        "Squral_2",
+        "Squral_3",
+        "Squral_4"
+      ]
+    },
+    "Layer2": {
+      "x": 993,
+      "y": 218,
+      "z": 1,
+      "source": "Layer2.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "Layer3": {
+      "x": 989,
+      "y": 169,
+      "z": 1,
+      "source": "Layer3.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "SoundIcon": {
+      "x": 715,
+      "y": 78,
+      "z": 1,
+      "source": "SoundIcon.png"
+    },
+    "SoundIconcopy": {
+      "x": 1305,
+      "y": 230,
+      "z": 1,
+      "source": "SoundIconcopy.png"
+    },
+    "stage_1591706598580": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "source": "stage_1591706598580.png"
+    }
+  },
+  "sources": {
+    "Rectangle4copy6": "Rectangle4copy6.png",
+    "Rectangle4copy7": "Rectangle4copy7.png",
+    "Squral": "Squral.png",
+    "Squral_1": "Squral_1.png",
+    "Squral_2": "Squral_2.png",
+    "Squral_3": "Squral_3.png",
+    "Squral_4": "Squral_4.png",
+    "Squral_5": "Squral_5.png",
+    "Mango": "Mango.png",
+    "Mango_1": "Mango_1.png",
+    "Mango_2": "Mango_2.png",
+    "Mango_3": "Mango_3.png",
+    "Mango_4": "Mango_4.png",
+    "Layer2": "Layer2.png",
+    "Layer3": "Layer3.png",
+    "SoundIcon": "SoundIcon.png",
+    "SoundIconcopy": "SoundIconcopy.png",
+    "stage_1591706598580": "stage_1591706598580.png"
+  }
+}

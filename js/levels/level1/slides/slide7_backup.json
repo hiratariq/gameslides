@@ -1,0 +1,154 @@
+{
+	"position": {
+		"BG": {
+			"x": -22,
+			"y": -25
+		},
+		"wUjgjvdfakakqiss": {
+			"x": 718,
+			"y": 276
+		},
+		"Rectangle4copy10": {
+			"x": 147,
+			"y": 129
+		},
+		"Rectangle4copy11": {
+			"x": 524,
+			"y": 129
+		},
+		"RoundedRectangle1": {
+			"x": 681,
+			"y": 156
+		},
+		"Rectangle4copy6": {
+			"x": 1177,
+			"y": 271,
+			"isCheckable": true,
+			"checkImg": {
+				"path": "slide7/Layer22.png",
+				"offset": {
+					"x": 5,
+					"y": 5
+				}
+			}
+		},
+		"Rectangle4copy7": {
+			"x": 1177,
+			"y": 356,
+			"isCheckable": true,
+			"checkImg": {
+				"path": "slide7/Layer22.png",
+				"offset": {
+					"x": 5,
+					"y": 5
+				}
+			}
+		},
+		"VectorSmartObject": {
+			"x": 182,
+			"y": 188,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop": {
+			"x": 182,
+			"y": 264,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop_0": {
+			"x": 182,
+			"y": 340,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop_1": {
+			"x": 182,
+			"y": 415,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop_2": {
+			"x": 182,
+			"y": 484,
+			"isTarget": false
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 182,
+			"y": 561,
+			"isTarget": false
+		},
+		"VectorSmartObject_0": {
+			"x": 567,
+			"y": 169,
+			"isTarget": true,
+			"isTargetFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"],
+			"isCorrectFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"]
+		},
+		"VectorSmartObjectcop_4": {
+			"x": 567,
+			"y": 265,
+			"isTarget": true,
+			"isTargetFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"],
+			"isCorrectFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"]
+		},
+		"VectorSmartObjectcop_5": {
+			"x": 567,
+			"y": 354,
+			"isTarget": true,
+			"isTargetFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"],
+			"isCorrectFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"]
+		},
+		"VectorSmartObjectcop_6": {
+			"x": 567,
+			"y": 448,
+			"isTarget": true,
+			"isTargetFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"],
+			"isCorrectFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"]
+		},
+		"VectorSmartObjectcop_7": {
+			"x": 567,
+			"y": 539,
+			"isTarget": true,
+			"isTargetFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"],
+			"isCorrectFor": ["VectorSmartObject", "VectorSmartObjectcop", "VectorSmartObjectcop_0", "VectorSmartObjectcop_1", "VectorSmartObjectcop_2", "VectorSmartObjectcop_3"]
+		},
+		"ksjerjdlHgfhdo": {
+			"x": 698,
+			"y": 200
+		},
+		"Layer22": {
+			"x": 993,
+			"y": 208
+		},
+		"SoundIconcopy": {
+			"x": 1305,
+			"y": 204
+		},
+		"Titlecopy": {
+			"x": 144,
+			"y": 37
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"wUjgjvdfakakqiss": "wUjgjvdfakakqiss.png",
+		"Rectangle4copy10": "Rectangle4copy10.png",
+		"Rectangle4copy11": "Rectangle4copy11.png",
+		"RoundedRectangle1": "RoundedRectangle1.png",
+		"Rectangle4copy6": "Rectangle4copy6.png",
+		"Rectangle4copy7": "Rectangle4copy7.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"VectorSmartObjectcop": "VectorSmartObjectcop.png",
+		"VectorSmartObjectcop_0": "VectorSmartObjectcop_0.png",
+		"VectorSmartObjectcop_1": "VectorSmartObjectcop_1.png",
+		"VectorSmartObjectcop_2": "VectorSmartObjectcop_2.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"VectorSmartObject_0": "VectorSmartObject_0.png",
+		"VectorSmartObjectcop_4": "VectorSmartObjectcop_4.png",
+		"VectorSmartObjectcop_5": "VectorSmartObjectcop_5.png",
+		"VectorSmartObjectcop_6": "VectorSmartObjectcop_6.png",
+		"VectorSmartObjectcop_7": "VectorSmartObjectcop_7.png",
+		"ksjerjdlHgfhdo": "ksjerjdlHgfhdo.png",
+		"Layer22": "Layer22.png",
+		"SoundIcon": "SoundIcon.png",
+		"SoundIconcopy": "SoundIconcopy.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

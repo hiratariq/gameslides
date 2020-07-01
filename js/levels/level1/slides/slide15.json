@@ -1,0 +1,156 @@
+{
+	"position": {
+		"BG": {
+			"x": -13,
+			"y": -23
+		},
+		"VectorSmartObject": {
+			"x": 155,
+			"y": -65
+		},
+		"VectorSmartObjectcop": {
+			"x": 619,
+			"y": -57
+		},
+		"VectorSmartObject_0": {
+			"x": -20,
+			"y": -3
+		},
+		"VectorSmartObject_1": {
+			"x": -47,
+			"y": 619
+		},
+		"VectorSmartObject_2": {
+			"x": 9,
+			"y": 454
+		},
+		"Polygon1": {
+			"x": 546,
+			"y": 215
+		},
+		"Shape5": {
+			"x": 554,
+			"y": 605
+		},
+		"Shape6": {
+			"x": 801,
+			"y": 602
+		},
+		"Shape4copy2": {
+			"x": 537,
+			"y": 427
+		},
+		"Shape4copy": {
+			"x": 517,
+			"y": 427
+		},
+		"Shape4": {
+			"x": 529,
+			"y": 426
+		},
+		"Shape4copy3": {
+			"x": 851,
+			"y": 422
+		},
+		"Shape4copy3_0": {
+			"x": 860,
+			"y": 422
+		},
+		"Shape4copy3_1": {
+			"x": 854,
+			"y": 421
+		},
+		"Shape4copy6": {
+			"x": 700,
+			"y": 221
+		},
+		"Shape4copy5": {
+			"x": 703,
+			"y": 218
+		},
+		"Shape4copy4": {
+			"x": 703,
+			"y": 293
+		},
+		"layer_2": {
+			"x": 683,
+			"y": 300
+		},
+		"layer_3": {
+			"x": 856,
+			"y": 404
+		},
+		"layer_4": {
+			"x": 789,
+			"y": 584
+		},
+		"layer_5": {
+			"x": 852,
+			"y": 644
+		},
+		"layer_6": {
+			"x": 539,
+			"y": 645
+		},
+		"layer_7": {
+			"x": 614,
+			"y": 584
+		},
+		"layer_8": {
+			"x": 542,
+			"y": 408
+		},
+		"Shape7": {
+			"x": 548,
+			"y": 311
+		},
+		"layer_1": {
+			"x": 690,
+			"y": 207
+		},
+		"VectorSmartObjectcop_3": {
+			"x": 109,
+			"y": -69
+		},
+		"SoundIcon": {
+			"x": 1114,
+			"y": 39
+		},
+		"Titlecopy": {
+			"x": 263,
+			"y": 33
+		}
+	},
+	"sources": {
+		"BG": "BG.png",
+		"VectorSmartObject": "VectorSmartObject.png",
+		"VectorSmartObjectcop": "VectorSmartObjectcop.png",
+		"VectorSmartObject_0": "VectorSmartObject_0.png",
+		"VectorSmartObject_1": "VectorSmartObject_1.png",
+		"VectorSmartObject_2": "VectorSmartObject_2.png",
+		"Polygon1": "Polygon1.png",
+		"Shape5": "Shape5.png",
+		"Shape6": "Shape6.png",
+		"Shape4copy2": "Shape4copy2.png",
+		"Shape4copy": "Shape4copy.png",
+		"Shape4": "Shape4.png",
+		"Shape4copy3": "Shape4copy3.png",
+		"Shape4copy3_0": "Shape4copy3_0.png",
+		"Shape4copy3_1": "Shape4copy3_1.png",
+		"Shape4copy6": "Shape4copy6.png",
+		"Shape4copy5": "Shape4copy5.png",
+		"Shape4copy4": "Shape4copy4.png",
+		"layer_2": "layer_2.png",
+		"layer_3": "layer_3.png",
+		"layer_4": "layer_4.png",
+		"layer_5": "layer_5.png",
+		"layer_6": "layer_6.png",
+		"layer_7": "layer_7.png",
+		"layer_8": "layer_8.png",
+		"Shape7": "Shape7.png",
+		"layer_1": "layer_1.png",
+		"VectorSmartObjectcop_3": "VectorSmartObjectcop_3.png",
+		"SoundIcon": "SoundIcon.png",
+		"Titlecopy": "Titlecopy.png"
+	}
+}

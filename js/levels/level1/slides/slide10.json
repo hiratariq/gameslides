@@ -1,0 +1,130 @@
+{
+  "position": {
+    "copy": {
+      "x": 67,
+      "y": 511,
+      "z": 1,
+      "source": "copy.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "copy_1": {
+      "x": 68,
+      "y": 477,
+      "z": 1,
+      "source": "copy_1.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "lfIacopy": {
+      "x": 69,
+      "y": 441,
+      "z": 1,
+      "source": "lfIacopy.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "wdYdcopy": {
+      "x": 67,
+      "y": 412,
+      "z": 1,
+      "source": "wdYdcopy.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "jreKscopy": {
+      "x": 66,
+      "y": 372,
+      "z": 1,
+      "source": "jreKscopy.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "copy_2": {
+      "x": 68,
+      "y": 335,
+      "z": 1,
+      "source": "copy_2.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "copy_3": {
+      "x": 67,
+      "y": 303,
+      "z": 1,
+      "source": "copy_3.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "copy_4": {
+      "x": 68,
+      "y": 264,
+      "z": 1,
+      "source": "copy_4.png",
+      "isDraggable": true,
+      "makeCopy": true
+    },
+    "layer": {
+      "x": 664,
+      "y": 459,
+      "z": 1,
+      "source": "layer.png",
+      "isDroppable": true,
+      "isCorrectFor": [
+        "copy_4",
+        "jreKscopy",
+        "copy"
+      ]
+    },
+    "copy_5": {
+      "x": 933,
+      "y": 459,
+      "z": 1,
+      "source": "copy_5.png",
+      "isDroppable": true,
+      "isCorrectFor": [
+        "copy_2",
+        "lfIacopy"
+      ]
+    },
+    "copy2": {
+      "x": 1216,
+      "y": 459,
+      "z": 1,
+      "source": "copy2.png",
+      "isDroppable": true,
+      "isCorrectFor": [
+        "copy_3",
+        "wdYdcopy",
+        "copy_1"
+      ]
+    },
+    "SoundIcon": {
+      "x": 1035,
+      "y": 68,
+      "z": 1,
+      "source": "SoundIcon.png"
+    },
+    "stage_1591892910281": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "source": "stage_1591892910281.png"
+    }
+  },
+  "sources": {
+    "copy": "copy.png",
+    "copy_1": "copy_1.png",
+    "lfIacopy": "lfIacopy.png",
+    "wdYdcopy": "wdYdcopy.png",
+    "jreKscopy": "jreKscopy.png",
+    "copy_2": "copy_2.png",
+    "copy_3": "copy_3.png",
+    "copy_4": "copy_4.png",
+    "layer": "layer.png",
+    "copy_5": "copy_5.png",
+    "copy2": "copy2.png",
+    "SoundIcon": "SoundIcon.png",
+    "stage_1591892910281": "stage_1591892910281.png"
+  }
+}

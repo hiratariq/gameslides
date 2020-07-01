@@ -1,0 +1,542 @@
+{
+  "position": {
+    "SmallAppleOutline": {
+      "x": 286,
+      "y": 124,
+      "z": 1,
+      "source": "SmallAppleOutline.png",
+      "instanceName": "apple2",
+      "groupName": "apple2a",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "SmallAppleOutline_1": {
+      "x": 213,
+      "y": 204,
+      "z": 1,
+      "source": "SmallAppleOutline_1.png",
+      "instanceName": "apple2",
+      "groupName": "apple2b",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "SmallAppleOutline_2": {
+      "x": 358,
+      "y": 210,
+      "z": 1,
+      "source": "SmallAppleOutline_2.png",
+      "instanceName": "apple2",
+      "groupName": "apple2c",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigAppleOutline": {
+      "x": 275,
+      "y": 200,
+      "z": 1,
+      "source": "BigAppleOutline.png",
+      "instanceName": "apple1",
+      "groupName": "apple1c",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigAppleOutline_1": {
+      "x": 214,
+      "y": 120,
+      "z": 1,
+      "source": "BigAppleOutline_1.png",
+      "instanceName": "apple1",
+      "groupName": "apple1a",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigAppleOutline_2": {
+      "x": 341,
+      "y": 122,
+      "z": 1,
+      "source": "BigAppleOutline_2.png",
+      "instanceName": "apple1",
+      "groupName": "apple1b",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigButterflyDownWing": {
+      "x": 257,
+      "y": 358,
+      "z": 1,
+      "source": "BigButterflyDownWing.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1a",
+      "canColour": true
+    },
+    "BigButterflyDownWing_1": {
+      "x": 222,
+      "y": 356,
+      "z": 1,
+      "source": "BigButterflyDownWing_1.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1a",
+      "canColour": true
+    },
+    "BiglButterflyUpperWing": {
+      "x": 216,
+      "y": 332,
+      "z": 1,
+      "source": "BiglButterflyUpperWing.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1a",
+      "canColour": true
+    },
+    "BiglButterflyOutline": {
+      "x": 211,
+      "y": 328,
+      "z": 1,
+      "source": "BiglButterflyOutline.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1a",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "SmallButterflydownWing": {
+      "x": 355,
+      "y": 438,
+      "z": 1,
+      "source": "SmallButterflydownWing.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2d",
+      "canColour": true
+    },
+    "SmallButterflydownWing_1": {
+      "x": 351,
+      "y": 422,
+      "z": 1,
+      "source": "SmallButterflydownWing_1.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2d",
+      "canColour": true
+    },
+    "SmallButterflydownWing_2": {
+      "x": 378,
+      "y": 439,
+      "z": 1,
+      "source": "SmallButterflydownWing_2.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2d",
+      "canColour": true
+    },
+    "SmallButterflydownWing_3": {
+      "x": 370,
+      "y": 423,
+      "z": 1,
+      "source": "SmallButterflydownWing_3.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2d",
+      "canColour": true
+    },
+    "SmallButterflyOutline": {
+      "x": 350,
+      "y": 421,
+      "z": 1,
+      "source": "SmallButterflyOutline.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2d",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "BiglButterflyUpperWing_1": {
+      "x": 257,
+      "y": 333,
+      "z": 1,
+      "source": "BiglButterflyUpperWing_1.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1a",
+      "canColour": true
+    },
+    "BigButterflyDownWing_2": {
+      "x": 352,
+      "y": 380,
+      "z": 1,
+      "source": "BigButterflyDownWing_2.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1b",
+      "canColour": true
+    },
+    "BigButterflyDownWing_3": {
+      "x": 317,
+      "y": 378,
+      "z": 1,
+      "source": "BigButterflyDownWing_3.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1b",
+      "canColour": true
+    },
+    "BiglButterflyUpperWing_2": {
+      "x": 311,
+      "y": 354,
+      "z": 1,
+      "source": "BiglButterflyUpperWing_2.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1b",
+      "canColour": true
+    },
+    "BiglButterflyUpperWing_3": {
+      "x": 352,
+      "y": 355,
+      "z": 1,
+      "source": "BiglButterflyUpperWing_3.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1b",
+      "canColour": true
+    },
+    "BiglButterflyOutline_1": {
+      "x": 306,
+      "y": 350,
+      "z": 1,
+      "source": "BiglButterflyOutline_1.png",
+      "instanceName": "butterfly1",
+      "groupName": "butterfly1b",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "SmallButterflydownWing_4": {
+      "x": 328,
+      "y": 305,
+      "z": 1,
+      "source": "SmallButterflydownWing_4.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2a",
+      "canColour": true
+    },
+    "SmallButterflyUpperWing": {
+      "x": 309,
+      "y": 304,
+      "z": 1,
+      "source": "SmallButterflyUpperWing.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2a",
+      "canColour": true
+    },
+    "SmallButterflydownWing_5": {
+      "x": 336,
+      "y": 321,
+      "z": 1,
+      "source": "SmallButterflydownWing_5.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2a",
+      "canColour": true
+    },
+    "SmallButterflydownWing_6": {
+      "x": 313,
+      "y": 320,
+      "z": 1,
+      "source": "SmallButterflydownWing_6.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2a",
+      "canColour": true
+    },
+    "SmallButterflyOutline_1": {
+      "x": 308,
+      "y": 303,
+      "z": 1,
+      "source": "SmallButterflyOutline_1.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2a",
+      "canColour": true,
+      "isDraggable": true
+    },
+    "BigButterflydownWing_4": {
+      "x": 310,
+      "y": 423,
+      "z": 1,
+      "source": "BigButterflydownWing_4.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2c"
+    },
+    "BigButterflydownWing_5": {
+      "x": 291,
+      "y": 422,
+      "z": 1,
+      "source": "BigButterflydownWing_5.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2c"
+    },
+    "SmallButterflydownWing_7": {
+      "x": 318,
+      "y": 439,
+      "z": 1,
+      "source": "SmallButterflydownWing_7.png",
+      "instanceName": "butterfly2",
+      "groupName": "butterfly2c",
+      "canColour": true
+    },
+    "SmallButterflydownWing_8": {
+      "x": 295,
+      "y": 438,
+      "z": 1,
+      "source": "SmallButterflydownWing_8.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2c"
+    },
+    "SmallButterflyOutline_2": {
+      "x": 290,
+      "y": 421,
+      "z": 1,
+      "source": "SmallButterflyOutline_2.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2c",
+      "isDraggable": true
+    },
+    "BigButterflydownWing_6": {
+      "x": 242,
+      "y": 421,
+      "z": 1,
+      "source": "BigButterflydownWing_6.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2b"
+    },
+    "BigButterflydownWing_7": {
+      "x": 223,
+      "y": 420,
+      "z": 1,
+      "source": "BigButterflydownWing_7.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2b"
+    },
+    "SmallButterflydownWing_9": {
+      "x": 250,
+      "y": 437,
+      "z": 1,
+      "source": "SmallButterflydownWing_9.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2b"
+    },
+    "SmallButterflydownWing_10": {
+      "x": 227,
+      "y": 436,
+      "z": 1,
+      "source": "SmallButterflydownWing_10.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2b"
+    },
+    "SmallButterflyOutline_3": {
+      "x": 222,
+      "y": 419,
+      "z": 1,
+      "source": "SmallButterflyOutline_3.png",
+      "instanceName": "butterfly2",
+      "canColour": true,
+      "groupName": "butterfly2b",
+      "isDraggable": true
+    },
+    "AnswerSqureBox": {
+      "x": 475,
+      "y": 107,
+      "z": 1,
+      "source": "AnswerSqureBox.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "apple1", "count": 3},
+                       { "name": "apple2", "count": 3}]
+    },
+    "AnswerSqureBox_1": {
+      "x": 669,
+      "y": 107,
+      "z": 1,
+      "source": "AnswerSqureBox_1.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "apple1", "count": 3},
+                       { "name": "apple2", "count": 3}]
+    },
+    "AnswerSqureBox_2": {
+      "x": 475,
+      "y": 298,
+      "z": 1,
+      "source": "AnswerSqureBox_2.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "butterfly2", "count": 4},
+                       { "name": "butterfly1", "count": 2}]
+    },
+    "AnswerSqureBox_3": {
+      "x": 669,
+      "y": 298,
+      "z": 1,
+      "source": "AnswerSqureBox_3.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "butterfly2", "count": 4},
+                       { "name": "butterfly1", "count": 2}]
+    },
+    "AnswerSqureBox_4": {
+      "x": 475,
+      "y": 491,
+      "z": 1,
+      "source": "AnswerSqureBox_4.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "rabbit2", "count": 3},
+                       { "name": "rabbit1", "count": 3}]
+    },
+    "AnswerSqureBox_5": {
+      "x": 669,
+      "y": 491,
+      "z": 1,
+      "source": "AnswerSqureBox_5.png",
+      "isDroppable": true,
+      "correctForInstance": true,
+      "isCorrectFor": [{ "name": "rabbit2", "count": 3},
+                       { "name": "rabbit1", "count": 3}]
+    },
+    "SmallRabitOutline": {
+      "x": 348,
+      "y": 589,
+      "z": 1,
+      "source": "SmallRabitOutline.png",
+      "instanceName": "rabbit2",
+      "groupName": "rabbit2c",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "SmallRabitOutline_1": {
+      "x": 369,
+      "y": 525,
+      "z": 1,
+      "source": "SmallRabitOutline_1.png",
+      "instanceName": "rabbit2",
+      "groupName": "rabbit2b",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigRabitOutline": {
+      "x": 213,
+      "y": 560,
+      "z": 1,
+      "source": "BigRabitOutline.png",
+      "instanceName": "rabbit1",
+      "groupName": "rabbit1b",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigRabitOutline_1": {
+      "x": 289,
+      "y": 499,
+      "z": 1,
+      "source": "BigRabitOutline_1.png",
+      "instanceName": "rabbit1",
+      "groupName": "rabbit1a",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "BigRabitOutline_2": {
+      "x": 277,
+      "y": 579,
+      "z": 1,
+      "source": "BigRabitOutline_2.png",
+      "instanceName": "rabbit1",
+      "groupName": "rabbit1c",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "SmallRabitOutline_2": {
+      "x": 233,
+      "y": 501,
+      "z": 1,
+      "source": "SmallRabitOutline_2.png",
+      "instanceName": "rabbit2",
+      "groupName": "rabbit2a",
+      "isDraggable": true,
+      "canColour": true
+    },
+    "Pencil": {
+      "x": 1018,
+      "y": 588,
+      "z": 1,
+      "source": "Pencil.png"
+    },
+    "Layer27": {
+      "x": 1013,
+      "y": 414,
+      "z": 1,
+      "source": "Layer27.png",
+      "isPencil": true
+    },
+    "Layer26": {
+      "x": 1145,
+      "y": 180,
+      "z": 1,
+      "source": "Layer26.png",
+      "isSwatch": true
+    },
+    "SoundIcon": {
+      "x": 1032,
+      "y": 47,
+      "z": 1,
+      "source": "SoundIcon.png"
+    },
+    "stage_1591891603934": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "source": "stage_1591891603934.png",
+      "isClickable": true
+    }
+  },
+  "sources": {
+    "SmallAppleOutline": "SmallAppleOutline.png",
+    "SmallAppleOutline_1": "SmallAppleOutline_1.png",
+    "SmallAppleOutline_2": "SmallAppleOutline_2.png",
+    "BigAppleOutline": "BigAppleOutline.png",
+    "BigAppleOutline_1": "BigAppleOutline_1.png",
+    "BigAppleOutline_2": "BigAppleOutline_2.png",
+    "BigButterflyDownWing": "BigButterflyDownWing.png",
+    "BigButterflyDownWing_1": "BigButterflyDownWing_1.png",
+    "BiglButterflyUpperWing": "BiglButterflyUpperWing.png",
+    "BiglButterflyOutline": "BiglButterflyOutline.png",
+    "SmallButterflydownWing": "SmallButterflydownWing.png",
+    "SmallButterflydownWing_1": "SmallButterflydownWing_1.png",
+    "SmallButterflydownWing_2": "SmallButterflydownWing_2.png",
+    "SmallButterflyOutline": "SmallButterflyOutline.png",
+    "BigButterflyDownWing_2": "BigButterflyDownWing_2.png",
+    "BigButterflyDownWing_3": "BigButterflyDownWing_3.png",
+    "BiglButterflyUpperWing_2": "BiglButterflyUpperWing_2.png",
+    "BiglButterflyOutline_1": "BiglButterflyOutline_1.png",
+    "SmallButterflyUpperWing": "SmallButterflyUpperWing.png",
+    "SmallButterflydownWing_5": "SmallButterflydownWing_5.png",
+    "SmallButterflydownWing_6": "SmallButterflydownWing_6.png",
+    "SmallButterflyOutline_1": "SmallButterflyOutline_1.png",
+    "BigButterflydownWing_5": "BigButterflydownWing_5.png",
+    "SmallButterflydownWing_7": "SmallButterflydownWing_7.png",
+    "SmallButterflydownWing_8": "SmallButterflydownWing_8.png",
+    "SmallButterflyOutline_2": "SmallButterflyOutline_2.png",
+    "BigButterflydownWing_7": "BigButterflydownWing_7.png",
+    "SmallButterflydownWing_9": "SmallButterflydownWing_9.png",
+    "SmallButterflydownWing_10": "SmallButterflydownWing_10.png",
+    "SmallButterflyOutline_3": "SmallButterflyOutline_3.png",
+    "AnswerSqureBox": "AnswerSqureBox.png",
+    "AnswerSqureBox_1": "AnswerSqureBox_1.png",
+    "AnswerSqureBox_2": "AnswerSqureBox_2.png",
+    "AnswerSqureBox_3": "AnswerSqureBox_3.png",
+    "AnswerSqureBox_4": "AnswerSqureBox_4.png",
+    "AnswerSqureBox_5": "AnswerSqureBox_5.png",
+    "SmallRabitOutline": "SmallRabitOutline.png",
+    "SmallRabitOutline_1": "SmallRabitOutline_1.png",
+    "BigRabitOutline": "BigRabitOutline.png",
+    "BigRabitOutline_1": "BigRabitOutline_1.png",
+    "BigRabitOutline_2": "BigRabitOutline_2.png",
+    "SmallRabitOutline_2": "SmallRabitOutline_2.png",
+    "Pencil": "Pencil.png",
+    "Layer27": "Layer27.png",
+    "Layer26": "Layer26.png",
+    "SoundIcon": "SoundIcon.png",
+    "stage_1591891603934": "stage_1591891603934.png"
+  }
+}

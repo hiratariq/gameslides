@@ -1,0 +1,188 @@
+{
+  "position": {
+    "RoundedRectangle2": {
+      "x": 291,
+      "y": 280,
+      "z": 1,
+      "source": "RoundedRectangle2.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "wg"
+      ]
+    },
+    "RoundedRectangle2copy": {
+      "x": 291,
+      "y": 363,
+      "z": 1,
+      "source": "RoundedRectangle2copy.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "yr"
+      ]
+    },
+    "RoundedRectangle2copy2": {
+      "x": 291,
+      "y": 449,
+      "z": 1,
+      "source": "RoundedRectangle2copy2.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "k_1"
+      ]
+    },
+    "RoundedRectangle2copy3": {
+      "x": 291,
+      "y": 535,
+      "z": 1,
+      "source": "RoundedRectangle2copy3.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "yh"
+      ]
+    },
+    "Ellipse1": {
+      "x": 1190,
+      "y": 260,
+      "z": 1,
+      "source": "Ellipse1.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "abc5"
+      ]
+    },
+    "Ellipse1copy": {
+      "x": 1190,
+      "y": 341,
+      "z": 1,
+      "source": "Ellipse1copy.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "abc9"
+      ]
+    },
+    "Ellipse1copy2": {
+      "x": 1190,
+      "y": 422,
+      "z": 1,
+      "source": "Ellipse1copy2.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "abc4_1"
+      ]
+    },
+    "Ellipse1copy3": {
+      "x": 1190,
+      "y": 512,
+      "z": 1,
+      "source": "Ellipse1copy3.png",
+      "isDroppable": true,
+      "snapToCenter": true,
+      "dragLimit": 1,
+      "isCorrectFor": [
+        "abc1_1"
+      ]
+    },
+    "abc5": {
+      "x": 762,
+      "y": 451,
+      "z": 1,
+      "source": "abc5.png",
+      "isDraggable": true
+    },
+    "abc9": {
+      "x": 678,
+      "y": 322,
+      "z": 1,
+      "source": "abc9.png",
+      "isDraggable": true
+    },
+    "abc4_1": {
+      "x": 636,
+      "y": 457,
+      "z": 1,
+      "source": "abc4_1.png",
+      "isDraggable": true
+    },
+    "abc1_1": {
+      "x": 751,
+      "y": 372,
+      "z": 1,
+      "source": "abc1_1.png",
+      "isDraggable": true
+    },
+    "wg": {
+      "x": 595,
+      "y": 381,
+      "z": 1,
+      "source": "wg.png",
+      "isDraggable": true
+    },
+    "yr": {
+      "x": 561,
+      "y": 315,
+      "z": 1,
+      "source": "yr.png",
+      "isDraggable": true
+    },
+    "k_1": {
+      "x": 674,
+      "y": 418,
+      "z": 1,
+      "source": "k_1.png",
+      "isDraggable": true
+    },
+    "yh": {
+      "x": 717,
+      "y": 283,
+      "z": 1,
+      "source": "yh.png",
+      "isDraggable": true
+    },
+    "SoundIcon": {
+      "x": 1175,
+      "y": 21,
+      "z": 1,
+      "source": "SoundIcon.png"
+    },
+    "stage_1591712317527": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "source": "stage_1591712317527.png"
+    }
+  },
+  "sources": {
+    "RoundedRectangle2": "RoundedRectangle2.png",
+    "RoundedRectangle2copy": "RoundedRectangle2copy.png",
+    "RoundedRectangle2copy2": "RoundedRectangle2copy2.png",
+    "RoundedRectangle2copy3": "RoundedRectangle2copy3.png",
+    "Ellipse1": "Ellipse1.png",
+    "Ellipse1copy": "Ellipse1copy.png",
+    "Ellipse1copy2": "Ellipse1copy2.png",
+    "Ellipse1copy3": "Ellipse1copy3.png",
+    "abc5": "abc5.png",
+    "abc9": "abc9.png",
+    "abc4_1": "abc4_1.png",
+    "abc1_1": "abc1_1.png",
+    "wg": "wg.png",
+    "yr": "yr.png",
+    "k_1": "k_1.png",
+    "yh": "yh.png",
+    "SoundIcon": "SoundIcon.png",
+    "stage_1591712317527": "stage_1591712317527.png"
+  }
+}

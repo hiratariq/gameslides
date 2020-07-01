@@ -1,0 +1,197 @@
+{
+	"position": {
+		"Layer22": {
+			"x": -10,
+			"y": -55
+		},
+		"Titlecopy": {
+			"x": 263,
+			"y": 33
+		},
+		"Pencilcopy": {
+			"x": 1029,
+			"y": 586
+		},
+		"Layer27copy": {
+			"x": 1024,
+			"y": 412,
+            "isPencil": true
+		},
+		"Layer22copy15": {
+			"x": 1141,
+			"y": 515
+		},
+		"Layer22copy15_0": {
+			"x": 1141,
+			"y": 426
+		},
+		"Layer22copy15_1": {
+			"x": 1141,
+			"y": 336
+		},
+		"Layer22copy15_2": {
+			"x": 1141,
+			"y": 251
+		},
+		"Layer22copy15_3": {
+			"x": 1141,
+			"y": 164
+		},
+		"Layer26copy": {
+			"x": 1156,
+			"y": 178,
+            "isSwatch": true
+		},
+        "abc1": {
+          "x": 287,
+          "y": 513,
+          "z": 1,
+          "source": "abc1.png"
+        },
+        "abc2": {
+          "x": 177,
+          "y": 512,
+          "z": 1,
+          "source": "abc2.png"
+        },
+        "abc3": {
+          "x": 163,
+          "y": 366,
+          "z": 1,
+          "source": "abc3.png"
+        },
+        "abc5": {
+          "x": 448,
+          "y": 247,
+          "z": 1,
+          "source": "abc5.png"
+        },
+        "abc6": {
+          "x": 659,
+          "y": 247,
+          "z": 1,
+          "source": "abc6.png"
+        },
+        "abc8": {
+          "x": 828,
+          "y": 361,
+          "z": 1,
+          "source": "abc8.png"
+        },
+        "abc9": {
+          "x": 823,
+          "y": 530,
+          "z": 1,
+          "source": "abc9.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "abc4": {
+          "x": 356,
+          "y": 388,
+          "z": 1,
+          "source": "abc4.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "abc7": {
+          "x": 714,
+          "y": 385,
+          "z": 1,
+          "source": "abc7.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+		"CarLight": {
+          "x": 189,
+          "y": 433,
+          "z": 1,
+          "source": "CarLight.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "CarWindow": {
+          "x": 394,
+          "y": 289,
+          "z": 1,
+          "source": "CarWindow.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "CarWindow2": {
+          "x": 573,
+          "y": 289,
+          "z": 1,
+          "source": "CarWindow2.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "Ellipse1": {
+          "x": 644,
+          "y": 462,
+          "z": 1,
+          "source": "Ellipse1.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "Ellipse1_1": {
+          "x": 309,
+          "y": 462,
+          "z": 1,
+          "source": "Ellipse1_1.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "FAVPNGpolicecardrawingcoloringbook2rtGMgxY": {
+          "x": 173,
+          "y": 260,
+          "z": 1,
+          "source": "FAVPNGpolicecardrawingcoloringbook2rtGMgxY.png",
+          "canColour": true,
+          "groupName": "car",
+          "instanceName": "car"
+        },
+        "Layer23": {
+			"x": 123,
+			"y": 159,
+            "z": 1
+		}
+	},
+	"sources": {
+		"Layer22": "Layer22.png",
+		"Titlecopy": "Titlecopy.png",
+        "abc1": "abc1.png",
+        "abc2": "abc2.png",
+        "abc3": "abc3.png",
+        "abc4": "abc4.png",
+        "abc5": "abc5.png",
+        "abc6": "abc6.png",
+        "abc7": "abc7.png",
+        "abc8": "abc8.png",
+        "abc9": "abc9.png",
+		"Layer23": "Layer23.png",
+		"Pencilcopy": "Pencilcopy.png",
+		"Layer27copy": "Layer27copy.png",
+		"Layer22copy15": "Layer22copy15.png",
+		"Layer22copy15_0": "Layer22copy15_0.png",
+		"Layer22copy15_1": "Layer22copy15_1.png",
+		"Layer22copy15_2": "Layer22copy15_2.png",
+		"Layer22copy15_3": "Layer22copy15_3.png",
+		"Layer26copy": "Layer26copy.png",
+		"CarLight": "CarLight.png",
+        "Ellipse1": "Ellipse1.png",
+        "Ellipse1_1": "Ellipse1_1.png",
+        "CarWindow": "CarWindow.png",
+        "CarWindow2": "CarWindow2.png",
+        "Shape1": "Shape1.png",
+        "FAVPNGpolicecardrawingcoloringbook2rtGMgxY": "FAVPNGpolicecardrawingcoloringbook2rtGMgxY.png"
+    }
+}
